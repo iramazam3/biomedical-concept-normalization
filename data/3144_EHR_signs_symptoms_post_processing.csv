@@ -1,0 +1,3145 @@
+CUI,Phrase,Type
+C0000731,Abdomen distended,PT
+C0000731,Distended abdomen,SY
+C0000731,distended abdomen,SY
+C0000731,abdomen distended,SY
+C0000731,Abdominal distention,SY
+C0000731,ABDOMINAL DISTENTION,SY
+C0000731,Abdominal Distention,SY
+C0000731,abdominal distention,SY
+C0000731,ABDOMINAL DISTENSION,SY
+C0000731,Abdominal distension,SY
+C0000731,abdominal distension,SY
+C0000731,Bloating,SY
+C0000731,Swollen abdomen,SY
+C0000731,SWOLLEN ABDOMEN,SY
+C0000731,swollen abdomen,SY
+C0000731,SWELLING ABDOMEN,SY
+C0000731,swelling of abdomen,SY
+C0000731,Swelling of abdomen,SY
+C0000731,Swelling abdomen,SY
+C0000731,ABDOMEN SWELLING,SY
+C0000731,Swollen;abdomen,SY
+C0000731,abdomen; swelling,SY
+C0000731,swelling; abdomen,SY
+C0000731,Abdominal bloating,SY
+C0000731,Abdominal Bloating,SY
+C0000731,Abdominal swelling,SY
+C0000731,abdominal swelling,SY
+C0000731,NOS,SY
+C0000731,abdominal swellings,SY
+C0000731,[D]Abdominal swelling,SY
+C0000731,Change in abd size/distension,SY
+C0000731,Change in abdominal size/distension,SY
+C0000731,Swelling abd,SY
+C0000731,Distension;abdomen,SY
+C0000731,ABDOMEN DISTENSION,SY
+C0000731,ABDOMEN DISTENTION,SY
+C0000731,Abdomen Distention,SY
+C0000731,Belly bloating,SY
+C0000731,Swollen abdomen (finding),SY
+C0000731,[D]Abdominal swelling (context-dependent category),SY
+C0000731,Abdominal swelling (disorder),SY
+C0000731,Abdominal distension (finding),SY
+C0000731,swelling; intra-abdominal,SY
+C0000731,intra-abdominal; swelling,SY
+C0000731,[D]Abdominal swelling (situation),SY
+C0000731,abdominal swelling (symptom),SY
+C0000731,abdominal distention (physical finding),SY
+C0000737,Abdominal Pain,PT
+C0000737,PAIN ABDOMINAL,SY
+C0000737,Pain abdominal,SY
+C0000737,Pain;abdominal,SY
+C0000737,pain; abdominal,SY
+C0000737,ABDOMINAL PAIN,SY
+C0000737,Abdominal pain,SY
+C0000737,abdominal pain,SY
+C0000737,abdominal; pain,SY
+C0000737,Abdominal Pains,SY
+C0000737,ABDOMINAL PAIN NOS,SY
+C0000737,Pains,SY
+C0000737,Abdominal,SY
+C0000737,Abdominal pain NOS,SY
+C0000737,abdominal pains,SY
+C0000737,Pain,SY
+C0000737,Stomach pain,SY
+C0000737,Pain in stomach,SY
+C0000737,unspecified site,SY
+C0000737,[D]Abdominal pain,SY
+C0000737,[D]Abdominal pain NOS,SY
+C0000737,AP - Abdominal pain,SY
+C0000737,Abd. pain,SY
+C0000737,Abdo pain,SY
+C0000737,Pain abdo,SY
+C0000737,Gut pain,SY
+C0000737,gut pain,SY
+C0000737,abdomen pain,SY
+C0000737,ABDOMEN PAIN,SY
+C0000737,[D]Abdominal pain NOS (context-dependent category),SY
+C0000737,[D]Abdominal pain (context-dependent category),SY
+C0000737,Abdominal pain (finding),SY
+C0000737,abdominalgia,SY
+C0000737,[D]Abdominal pain (situation),SY
+C0000737,[D]Abdominal pain NOS (situation),SY
+C0000737,Abdmnal pain unspcf site,SY
+C0000737,abdominal pain (symptom),SY
+C0000737,Bellyache,SY
+C0000737,Unspecified abdominal pain,SY
+C0001311,Acute bronchiolitis,PT
+C0001311,Bronchiolitis (acute),SY
+C0001311,bronchiolitis acute,SY
+C0001311,Bronchiolitis;acute,SY
+C0001311,bronchiolitis; acute,SY
+C0001311,Acute Bronchiolitis,SY
+C0001311,acute bronchiolitis,SY
+C0001311,acute; bronchiolitis,SY
+C0001311,Acute bronchiolitis NOS,SY
+C0001311,Capillary pneumonia,SY
+C0001311,Acute capillary bronchiolitis,SY
+C0001311,unspecified,SY
+C0001311,Acute capillary bronchiolitis (disorder),SY
+C0001311,Acute bronchiolitis (disorder),SY
+C0001311,Acute bronchiolitis NOS (disorder),SY
+C0003123,Anorexia,PT
+C0003123,ANOREXIA,SY
+C0003123,anorexia,SY
+C0003123,Anorexias,SY
+C0003123,Anorexia NOS,SY
+C0003123,Anorectic,SY
+C0003123,anorectic,SY
+C0003123,APPETITE ABSENT,SY
+C0003123,Anorexic,SY
+C0003123,anorexic,SY
+C0003123,APPETITE IMPAIRED,SY
+C0003123,APPETITE LOST,SY
+C0003123,lost appetite,SY
+C0003123,Loss of appetite,SY
+C0003123,loss of appetite,SY
+C0003123,appetite loss,SY
+C0003123,no appetite,SY
+C0003123,lack of appetite,SY
+C0003123,anorexia (loss of appetite),SY
+C0003123,[D]Anorexia,SY
+C0003123,[D]Anorexia NOS,SY
+C0003123,[D]Anorexia NOS (context-dependent category),SY
+C0003123,[D]Anorexia (context-dependent category),SY
+C0003123,[D]Anorexia (situation),SY
+C0003123,[D]Anorexia NOS (situation),SY
+C0003126,Anosmia,PT
+C0003126,ANOSMIA,SY
+C0003126,anosmia,SY
+C0003126,anosmias,SY
+C0003126,sense smell,SY
+C0003126,smell sense,SY
+C0003126,Sense of smell absent,SY
+C0003126,Absent sense of smell,SY
+C0003126,Sense of smell,SY
+C0003126,absent,SY
+C0003126,Absent smell,SY
+C0003126,Smell,SY
+C0003126,Loss of sense of smell,SY
+C0003126,loss of sense of smell,SY
+C0003126,Loss of the sense of smell,SY
+C0003126,loss sense smell,SY
+C0003126,[D]Anosmia,SY
+C0003126,Sense of smell lost,SY
+C0003126,lost sense of smell,SY
+C0003126,sense of smell lost,SY
+C0003126,No sense of smell,SY
+C0003126,no sense of smell,SY
+C0003126,Smell loss,SY
+C0003126,loss smell,SY
+C0003126,loss; smell,SY
+C0003126,smell loss,SY
+C0003126,SMELL LOSS,SY
+C0003126,smell; loss,SY
+C0003126,Loss of smell,SY
+C0003126,Loss (of);smell,SY
+C0003126,loss of smell,SY
+C0003126,anosphrasia,SY
+C0003126,Lost smell,SY
+C0003126,[D]Anosmia (context-dependent category),SY
+C0003126,Anosmia (loss of sense of smell),SY
+C0003126,Anosmia - loss of smell sense,SY
+C0003126,Loss of sense of smell (finding),SY
+C0003126,complete (anosmia),SY
+C0003126,[D]Anosmia (situation),SY
+C0003126,loss of sense of smell (symptom),SY
+C0003126,anosmia as symptom,SY
+C0003126,sense of smell lost (anosmia),SY
+C0003126,anosmia (diagnosis),SY
+C0003862,Arthralgia,PT
+C0003862,ARTHRALGIA,SY
+C0003862,arthralgia,SY
+C0003862,ARTHRALGIAS,SY
+C0003862,Arthralgias,SY
+C0003862,Arthralgia NOS,SY
+C0003862,arthralgias,SY
+C0003862,Joint pain-unspec,SY
+C0003862,Joint Pain,SY
+C0003862,PAIN JOINT,SY
+C0003862,Pain joint,SY
+C0003862,JOINT PAIN,SY
+C0003862,Joint pain,SY
+C0003862,joint pain,SY
+C0003862,Pain in joint,SY
+C0003862,JOINT PAINS,SY
+C0003862,Joint Pains,SY
+C0003862,Joint,SY
+C0003862,Pain in joints,SY
+C0003862,joints pain,SY
+C0003862,Pain;joint(s),SY
+C0003862,Joint pains,SY
+C0003862,Aching joints,SY
+C0003862,aching joints,SY
+C0003862,JOINT ACHE,SY
+C0003862,Ache in joint,SY
+C0003862,aching joint,SY
+C0003862,joint ache,SY
+C0003862,Joint ache,SY
+C0003862,Arthritic-like pain,SY
+C0003862,ARTHRITIC-LIKE PAIN,SY
+C0003862,Painful joint,SY
+C0003862,painful joint,SY
+C0003862,painful joints,SY
+C0003862,Painful joints,SY
+C0003862,site unspecified,SY
+C0003862,Articular pain,SY
+C0003862,articular pain,SY
+C0003862,arthralgia (diagnosis),SY
+C0003862,Discomfort in joints,SY
+C0003862,Pain in a joint,SY
+C0003862,Joint: [pain - arthralgia] or [ache],SY
+C0003862,Arthralgia NOS (finding),SY
+C0003862,Pain in joint - arthralgia,SY
+C0003862,Joint pain (finding),SY
+C0003862,Arthrodynia,SY
+C0003862,arthrodynia,SY
+C0003862,diffuse joint pains,SY
+C0003862,diffuse arthralgia,SY
+C0003862,diffuse joint pains (symptom),SY
+C0003862,Joint: [pain - arthralgia] or [ache] (disorder),SY
+C0008031,Chest Pain,PT
+C0008031,PAIN CHEST,SY
+C0008031,Pain chest,SY
+C0008031,Pain;chest,SY
+C0008031,pain; chest,SY
+C0008031,CHEST PAIN,SY
+C0008031,Chest pain,SY
+C0008031,chest pain,SY
+C0008031,chest; pain,SY
+C0008031,Chest Pains,SY
+C0008031,Chest,SY
+C0008031,Chest pain NOS,SY
+C0008031,Pain In Chest,SY
+C0008031,Chest pain nos,SY
+C0008031,Pain in chest,SY
+C0008031,Unspecified chest pain,SY
+C0008031,Thoracic pain,SY
+C0008031,pain thoracic,SY
+C0008031,THORACIC PAIN,SY
+C0008031,thoracic pain,SY
+C0008031,[D]Chest pain,SY
+C0008031,[D]Chest pain NOS,SY
+C0008031,Thorax painful,SY
+C0008031,reported chest pain,SY
+C0008031,chest pain or discomfort reported as pain (symptom),SY
+C0008031,Thorax pain,SY
+C0008031,pain; thorax,SY
+C0008031,thorax pain,SY
+C0008031,thorax; pain,SY
+C0008031,Nonspecific chest pain,SY
+C0008031,[D]Chest pain NOS (context-dependent category),SY
+C0008031,[D]Chest pain (context-dependent category),SY
+C0008031,unspecified (context-dependent category),SY
+C0008031,Chest pain (finding),SY
+C0008031,Chest pain NOS (finding),SY
+C0008031,[D]Chest pain (situation),SY
+C0008031,[D]Chest pain NOS (situation),SY
+C0008031,unspecified (situation),SY
+C0008031,Thoracalgia,SY
+C0008031,thoracalgia,SY
+C0008031,chest pain or discomfort,SY
+C0008031,chest pain (diagnosis),SY
+C0008031,chest pain or discomfort (symptom),SY
+C0008031,chest pain or discomfort reported as pain,SY
+C0008031,thoracodynia,SY
+C0009676,Confusion,PT
+C0009676,CONFUSION,SY
+C0009676,confusion,SY
+C0009676,Confusion NOS,SY
+C0009676,bewilderment,SY
+C0009676,Mental confusion,SY
+C0009676,Confusion (Mental),SY
+C0009676,confusion; mental,SY
+C0009676,Mental Confusion,SY
+C0009676,mental confusion,SY
+C0009676,Confusional State,SY
+C0009676,state; confusional,SY
+C0009676,CONFUSIONAL STATE,SY
+C0009676,Confusional state,SY
+C0009676,confusional state,SY
+C0009676,confusional; state,SY
+C0009676,confusional states,SY
+C0009676,Confusional States,SY
+C0009676,States,SY
+C0009676,Confusional,SY
+C0009676,State,SY
+C0009676,Disorientation,SY
+C0009676,disorientation,SY
+C0009676,Confusion state,SY
+C0009676,CONFUSION STATE,SY
+C0009676,Dazed state,SY
+C0009676,Confused,SY
+C0009676,confused,SY
+C0009676,Dazed,SY
+C0009676,dazed,SY
+C0009676,daze,SY
+C0009676,dazing,SY
+C0009676,Muddled,SY
+C0009676,[D]Confusion,SY
+C0009676,Confusional state (diagnosis),SY
+C0009676,delirium confusional state,SY
+C0009676,Confusion and disorientation,SY
+C0009676,confusion and disorientation,SY
+C0009676,confusion disorientation,SY
+C0009676,disorientation confusion,SY
+C0009676,Disorientation/Confusion,SY
+C0009676,Confusion/Disorientation,SY
+C0009676,Easily confused,SY
+C0009676,Mental disorientation,SY
+C0009676,Feeling dazed,SY
+C0009676,[D]Confusion (context-dependent category),SY
+C0009676,Confused (finding),SY
+C0009676,Confusional state (disorder),SY
+C0009676,[D]Confusion (situation),SY
+C0009676,confusion (symptom),SY
+C0009676,confusion (physical finding),SY
+C0009676,cognitive functions confusion,SY
+C0009676,confusion was observed,SY
+C0009676,rndx confusion,SY
+C0009676,rndx confusion (diagnosis),SY
+C0010200,Coughing,PT
+C0010200,COUGHING,SY
+C0010200,coughing,SY
+C0010200,Cough,SY
+C0010200,Coughs,SY
+C0010200,COUGH,SY
+C0010200,COUGHS,SY
+C0010200,cough,SY
+C0010200,coughs,SY
+C0010200,[D]Cough,SY
+C0010200,C/O - cough,SY
+C0010200,cough (symptom),SY
+C0010200,Cough symptom,SY
+C0010200,Cough symptom NOS,SY
+C0010200,cough symptoms,SY
+C0010200,cough symptom,SY
+C0010200,coughing symptom,SY
+C0010200,Coughing - function,SY
+C0010200,Observation of cough,SY
+C0010200,241 COUGHS,SY
+C0010200,C/O - cough (context-dependent category),SY
+C0010200,[D]Cough (context-dependent category),SY
+C0010200,Cough (finding),SY
+C0010200,Finding of cough,SY
+C0010200,Finding of cough (finding),SY
+C0010200,Cough symptom NOS (finding),SY
+C0010200,Coughing - function (qualifier value),SY
+C0010200,Coughing (observable entity),SY
+C0010200,Complaining of cough (finding),SY
+C0010200,[D]Cough (situation),SY
+C0010200,Complaining of cough,SY
+C0011168,Deglutition Disorders,PT
+C0011168,deglutition disorders,SY
+C0011168,Deglutition disorders,SY
+C0011168,DEGLUTITION DISORDER,SY
+C0011168,DISORDER DEGLUTITION,SY
+C0011168,Deglutition Disorder,SY
+C0011168,deglutition disorder,SY
+C0011168,Deglutition disorder,SY
+C0011168,Disorder deglutition,SY
+C0011168,Disorders,SY
+C0011168,Deglutition,SY
+C0011168,Dysphagia,SY
+C0011168,DYSPHAGIA,SY
+C0011168,dysphagia,SY
+C0011168,Dysphagia NOS,SY
+C0011168,dysphagias,SY
+C0011168,Swallowing difficult,SY
+C0011168,difficult swallowing,SY
+C0011168,difficult; swallowing,SY
+C0011168,SWALLOWING DIFFICULT,SY
+C0011168,swallowing; difficult,SY
+C0011168,Difficulty swallowing,SY
+C0011168,SWALLOWING DIFFICULTY,SY
+C0011168,swallowing difficulty,SY
+C0011168,Swallowing difficulty,SY
+C0011168,Difficulty Swallowing,SY
+C0011168,difficulty swallowing,SY
+C0011168,Difficulty in swallowing,SY
+C0011168,difficulty in swallowing,SY
+C0011168,Difficulties swallowing,SY
+C0011168,Difficulty;swallowing,SY
+C0011168,Swallowing difficulties,SY
+C0011168,Difficulty in swallowing NOS,SY
+C0011168,Can't get food down,SY
+C0011168,[D]Difficulty in swallowing,SY
+C0011168,[D]Dysphagia,SY
+C0011168,[D]Dysphagia NOS,SY
+C0011168,Swallowing Disorders,SY
+C0011168,SWALLOWING DISORDER,SY
+C0011168,Swallowing disorder,SY
+C0011168,swallowing disorder,SY
+C0011168,Swallowing Disorder,SY
+C0011168,Cannot get food down,SY
+C0011168,[D]Difficulty in swallowing (context-dependent category),SY
+C0011168,[D]Dysphagia NOS (context-dependent category),SY
+C0011168,[D]Dysphagia (context-dependent category),SY
+C0011168,Difficulty swallowing (finding),SY
+C0011168,Dysphagia (disorder),SY
+C0011168,Swallowing difficulties (dysphagia),SY
+C0011168,difficulty swallowing (dysphagia),SY
+C0011168,[D]Difficulty in swallowing (situation),SY
+C0011168,[D]Dysphagia (situation),SY
+C0011168,[D]Dysphagia NOS (situation),SY
+C0011168,DEGLUTITION DIS,SY
+C0011168,Poor swallowing,SY
+C0011168,SWALLOWING DIS,SY
+C0011168,difficulty swallowing (symptom),SY
+C0011168,dysphagia (diagnosis),SY
+C0011991,Diarrhea,PT
+C0011991,DIARRHEA,SY
+C0011991,diarrhea,SY
+C0011991,Diarrheas,SY
+C0011991,DIARRHOEA,SY
+C0011991,Diarrhoea,SY
+C0011991,diarrheas,SY
+C0011991,Diarrhea NOS,SY
+C0011991,Diarrhoea NOS,SY
+C0011991,diarrhoea,SY
+C0011991,The runs,SY
+C0011991,Loose stools,SY
+C0011991,STOOLS LOOSE,SY
+C0011991,LOOSE STOOLS,SY
+C0011991,Loose Stools,SY
+C0011991,Watery stool,SY
+C0011991,watery stool,SY
+C0011991,watery stools,SY
+C0011991,Loose bowel movement,SY
+C0011991,loose bowel movement,SY
+C0011991,bowel loose movements,SY
+C0011991,bowels loose movement,SY
+C0011991,D - Diarrhea,SY
+C0011991,D - Diarrhoea,SY
+C0011991,Diarrhea symptom,SY
+C0011991,diarrhea (symptom),SY
+C0011991,Diarrhea symptom NOS,SY
+C0011991,Diarrhea symptoms,SY
+C0011991,Diarrhoea symptom NOS,SY
+C0011991,Diarrhoea symptoms,SY
+C0011991,diarrhea symptoms,SY
+C0011991,diarrhoea symptoms,SY
+C0011991,symptoms diarrhea,SY
+C0011991,Diarrhoea symptom,SY
+C0011991,Loose bowel motions,SY
+C0011991,loose bowel motion,SY
+C0011991,Observation of diarrhea,SY
+C0011991,Observation of diarrhoea,SY
+C0011991,runs(diarrhoea),SY
+C0011991,Runs(diarrhoea),SY
+C0011991,diarrhea running,SY
+C0011991,Runs(diarrhea),SY
+C0011991,runs(diarrhea),SY
+C0011991,Frequent Stools,SY
+C0011991,Diarrhea symptoms (context-dependent category),SY
+C0011991,Diarrhea symptom NOS (context-dependent category),SY
+C0011991,Diarrhea (finding),SY
+C0011991,Finding of diarrhea,SY
+C0011991,Finding of diarrhoea,SY
+C0011991,Diarrhoea (finding),SY
+C0011991,Finding of diarrhea (finding),SY
+C0011991,Diarrhea symptom (finding),SY
+C0011991,Diarrhea symptom NOS (finding),SY
+C0011991,Diarrhea symptoms (finding),SY
+C0011991,Diarrhoea symptoms (finding),SY
+C0011991,Diarrhoea (disorder),SY
+C0011991,The trots,SY
+C0011991,rndx diarrhea (diagnosis),SY
+C0011991,rndx diarrhea,SY
+C0013378,Dysgeusia,PT
+C0013378,DYSGEUSIA,SY
+C0013378,dysgeusia,SY
+C0013378,Dysgeusias,SY
+C0013378,dysgeusias,SY
+C0013378,Disordered taste,SY
+C0013378,disorder; taste,SY
+C0013378,taste; disorder,SY
+C0013378,Taste perversion,SY
+C0013378,TASTE PERVERSION,SY
+C0013378,taste perversion,SY
+C0013378,TASTE PERVERSION OF,SY
+C0013378,Taste perversion of,SY
+C0013378,Gustatory alteration,SY
+C0013378,Gustatory Alteration,SY
+C0013378,Taste alteration,SY
+C0013378,TASTE ALTERATION,SY
+C0013378,taste alteration,SY
+C0013378,alterations taste,SY
+C0013378,Alteration in taste,SY
+C0013378,taste impairment,SY
+C0013378,TASTE IMPAIRMENT,SY
+C0013378,Parageusia,SY
+C0013378,PARAGEUSIA,SY
+C0013378,parageusia,SY
+C0013378,Things taste abnormal,SY
+C0013378,Taste sense altered,SY
+C0013378,[D]Parageusia,SY
+C0013378,Things taste different,SY
+C0013378,Taste,SY
+C0013378,Distorted,SY
+C0013378,Distorted taste,SY
+C0013378,distort taste,SY
+C0013378,Distorted Taste,SY
+C0013378,Things taste peculiar,SY
+C0013378,Perversion of sense of taste,SY
+C0013378,Dysgensia,SY
+C0013378,DYSGENSIA,SY
+C0013378,Sensory perceptual alteration: gustatory,SY
+C0013378,parageusia (diagnosis),SY
+C0013378,Impaired Sense Of Taste,SY
+C0013378,Taste abnormality,SY
+C0013378,taste abnormality,SY
+C0013378,abnormalities taste,SY
+C0013378,Taste changed,SY
+C0013378,Taste changes,SY
+C0013378,Taste disturbance,SY
+C0013378,Disturbance;taste,SY
+C0013378,taste disturbance,SY
+C0013378,disturbances taste,SY
+C0013378,disturbance of taste,SY
+C0013378,taste disturbances,SY
+C0013378,Adverse taste perception,SY
+C0013378,Taste sense altered (finding),SY
+C0013378,[D]Parageusia (context-dependent category),SY
+C0013378,[D]Parageusia (situation),SY
+C0013378,disturbance of taste (diagnosis),SY
+C0013378,taste disturbances (symptom),SY
+C0013378,rndx gustatory alteration (diagnosis),SY
+C0013378,rndx gustatory alteration,SY
+C0013404,Dyspnea,PT
+C0013404,DYSPNEA,SY
+C0013404,dyspnea,SY
+C0013404,Dyspneas,SY
+C0013404,DYSPNOEA,SY
+C0013404,Dyspnoea,SY
+C0013404,Dyspnea NOS,SY
+C0013404,Dyspnoea NOS,SY
+C0013404,Dyspnoeas,SY
+C0013404,dyspnoea,SY
+C0013404,Breathlessness,SY
+C0013404,BREATHLESSNESS,SY
+C0013404,breathlessness,SY
+C0013404,Breathlessness NOS,SY
+C0013404,Short of breath,SY
+C0013404,Shortness of Breath,SY
+C0013404,Shortness of breath,SY
+C0013404,SHORTNESS OF BREATH,SY
+C0013404,shortness of breath,SY
+C0013404,Shortness (of);breath,SY
+C0013404,BREATH SHORTNESS,SY
+C0013404,breath shortness,SY
+C0013404,Breath shortness,SY
+C0013404,Breath Shortness,SY
+C0013404,SOB - Shortness of breath,SY
+C0013404,shortness of breath (SOB),SY
+C0013404,SOB (SHORTNESS OF BREATH),SY
+C0013404,SOB (shortness of breath),SY
+C0013404,Breathing difficult,SY
+C0013404,difficult breathing,SY
+C0013404,BREATHING DIFFICULT,SY
+C0013404,Difficulty breathing,SY
+C0013404,breathing difficulty,SY
+C0013404,DIFFICULTY BREATHING,SY
+C0013404,Difficulty Breathing,SY
+C0013404,difficulty breathing,SY
+C0013404,breathing difficulties,SY
+C0013404,Breathing difficulties,SY
+C0013404,Difficulty;breathing,SY
+C0013404,Breathing Difficulties,SY
+C0013404,SOB,SY
+C0013404,sob,SY
+C0013404,Respiration difficult,SY
+C0013404,[D]Shortness of breath,SY
+C0013404,Shortness of breath/dyspnoea,SY
+C0013404,Shortness of breath dyspnea,SY
+C0013404,[D]Dyspnoea,SY
+C0013404,[D]Dyspnea,SY
+C0013404,DIB - Difficulty in breathing,SY
+C0013404,Breathless,SY
+C0013404,breathless,SY
+C0013404,[D]Breathlessness,SY
+C0013404,Breathlessnesses,SY
+C0013404,s.o.b.,SY
+C0013404,Respiratory difficulties,SY
+C0013404,respiratory difficulty,SY
+C0013404,RESPIRATORY DIFFICULTY,SY
+C0013404,Breath Shortnesses,SY
+C0013404,Trouble breathing,SY
+C0013404,Difficulty breathing [Ambiguous],SY
+C0013404,Dyspnea (finding) [Ambiguous],SY
+C0013404,[D]Shortness of breath (context-dependent category),SY
+C0013404,Short of breath symptom,SY
+C0013404,shortness of breath (symptom),SY
+C0013404,Shortness of breath symptom,SY
+C0013404,Difficulty breathing (finding),SY
+C0013404,(Symptom: [SOB] or [breathlessness] or [dyspnoea]) or (breathlessness),SY
+C0013404,(Symptom: [SOB] or [breathlessness] or [dyspnea]) or (breathlessness),SY
+C0013404,[D]Breathlessness (context-dependent category),SY
+C0013404,Breathlessness NOS (finding),SY
+C0013404,Breathlessness symptom,SY
+C0013404,[D]Dyspnea (context-dependent category),SY
+C0013404,Dyspnea (finding),SY
+C0013404,Dyspnoea (finding),SY
+C0013404,Dyspnoea - symptom,SY
+C0013404,Dyspnea - symptom,SY
+C0013404,shortness of breath; breath,SY
+C0013404,breath; shortness of breath,SY
+C0013404,tightness of breath,SY
+C0013404,[D]Shortness of breath (situation),SY
+C0013404,[D]Breathlessness (situation),SY
+C0013404,[D]Dyspnea (situation),SY
+C0013404,[D]Dyspnoea (situation),SY
+C0013404,difficulty breathing (symptom),SY
+C0013404,(Symptom: [SOB] or [breathlessness] or [dyspnoea]) or (breathlessness) (finding),SY
+C0013404,breathing shortness,SY
+C0015230,Exanthema,PT
+C0015230,EXANTHEMA,SY
+C0015230,exanthema,SY
+C0015230,Exanthemata,SY
+C0015230,exanthemas,SY
+C0015230,exanthemata,SY
+C0015230,Eruption,SY
+C0015230,ERUPTION,SY
+C0015230,Exanthem,SY
+C0015230,EXANTHEM,SY
+C0015230,exanthem,SY
+C0015230,exanthems,SY
+C0015230,Rash,SY
+C0015230,RASH,SY
+C0015230,rash,SY
+C0015230,Rashes,SY
+C0015230,rashes,SY
+C0015230,rash NOS,SY
+C0015230,Rash NOS,SY
+C0015230,Rash and other nonspecific skin eruption,SY
+C0015230,Rash and other nonspecific skin eruption NOS,SY
+C0015230,Spots,SY
+C0015230,spots,SY
+C0015230,Skin eruption,SY
+C0015230,eruption; skin,SY
+C0015230,SKIN ERUPTION,SY
+C0015230,skin eruption,SY
+C0015230,Skin Eruption,SY
+C0015230,skin; eruption,SY
+C0015230,Eruption of skin,SY
+C0015230,Breaking out - eruption,SY
+C0015230,Cutaneous Eruption,SY
+C0015230,Cutaneous eruption,SY
+C0015230,cutaneous eruptions,SY
+C0015230,[D]Rash/nonspec.skin erupt.NOS,SY
+C0015230,[D]Rash/nonspec.skin eruption,SY
+C0015230,[D]Rash and other nonspecific skin eruption,SY
+C0015230,[D]Rash and other nonspecific skin eruption NOS,SY
+C0015230,[D]Exanthem,SY
+C0015230,Spots [D],SY
+C0015230,[D]Spots,SY
+C0015230,Rash/nonspec.skin erupt.NOS,SY
+C0015230,Rash/nonspec.skin eruption,SY
+C0015230,Skin Rash,SY
+C0015230,skin rash,SY
+C0015230,Skin rash,SY
+C0015230,Skin rashes,SY
+C0015230,Skin,SY
+C0015230,Rash (nonspecific),SY
+C0015230,Efflorescence,SY
+C0015230,efflorescence,SY
+C0015230,Cutaneous eruption (morphologic abnormality),SY
+C0015230,[D]Rash and other nonspecific skin eruption NOS (context-dependent category),SY
+C0015230,[D]Rash and other nonspecific skin eruption (context-dependent category),SY
+C0015230,[D]Exanthem (context-dependent category),SY
+C0015230,Eruption (disorder),SY
+C0015230,Eruption of skin (disorder),SY
+C0015230,[D]Rash and other nonspecific skin eruption (situation),SY
+C0015230,[D]Rash and other nonspecific skin eruption NOS (situation),SY
+C0015230,[D]Exanthem (situation),SY
+C0015230,Nonspecif skin erupt NEC,SY
+C0015230,rash (symptom),SY
+C0015230,exanthem (diagnosis),SY
+C0015230,cutaneous eruption on skin,SY
+C0015672,Fatigue,PT
+C0015672,FATIGUE,SY
+C0015672,fatigue,SY
+C0015672,Fatigued,SY
+C0015672,Fatigue NOS,SY
+C0015672,fatigued,SY
+C0015672,fatigues,SY
+C0015672,fatiguing,SY
+C0015672,Tiredness,SY
+C0015672,TIREDNESS,SY
+C0015672,tiredness,SY
+C0015672,Fatigue extreme,SY
+C0015672,extreme fatigue,SY
+C0015672,FATIGUE EXTREME,SY
+C0015672,fatigue extreme,SY
+C0015672,Tired,SY
+C0015672,Weariness,SY
+C0015672,WEARINESS,SY
+C0015672,weariness,SY
+C0015672,[D]Fatigue,SY
+C0015672,[D]Tiredness,SY
+C0015672,Lack of energy,SY
+C0015672,Lack of Energy,SY
+C0015672,lack of energy,SY
+C0015672,Lacking in energy,SY
+C0015672,lacking energy,SY
+C0015672,Lack (of);energy,SY
+C0015672,Loss of energy,SY
+C0015672,loss of energy,SY
+C0015672,energy loss,SY
+C0015672,tired all the time,SY
+C0015672,Energy decreased,SY
+C0015672,decreased energy,SY
+C0015672,Decreased energy,SY
+C0015672,Decrease in energy,SY
+C0015672,Feeling of total lack of energy,SY
+C0015672,Tired out,SY
+C0015672,tatt,SY
+C0015672,[D]Fatigue (context-dependent category),SY
+C0015672,[D]Tiredness (context-dependent category),SY
+C0015672,Lack of energy (finding),SY
+C0015672,Lacking in energy (finding),SY
+C0015672,Fatigue (finding),SY
+C0015672,[D]Fatigue (situation),SY
+C0015672,[D]Tiredness (situation),SY
+C0015672,fatigue (diagnosis),SY
+C0015672,Tiredness (finding),SY
+C0015672,rndx fatigue (diagnosis),SY
+C0015672,rndx fatigue,SY
+C0015672,time tired,SY
+C0015672,tired time,SY
+C0015967,Fever,PT
+C0015967,FEVER,SY
+C0015967,fever,SY
+C0015967,Fevers,SY
+C0015967,Fever NOS,SY
+C0015967,fevered,SY
+C0015967,fevers,SY
+C0015967,Increased body temperature,SY
+C0015967,Body temperature,SY
+C0015967,increased,SY
+C0015967,BODY TEMPERATURE INCREASED,SY
+C0015967,Body temperature increased,SY
+C0015967,body temperature; increased,SY
+C0015967,increased body temperature,SY
+C0015967,increased; body temperature,SY
+C0015967,Increase in body temperature,SY
+C0015967,Hyperthermia,SY
+C0015967,HYPERTHERMIA,SY
+C0015967,hyperthermia,SY
+C0015967,Hyperthermias,SY
+C0015967,Pyrexia,SY
+C0015967,PYREXIA,SY
+C0015967,pyrexia,SY
+C0015967,Pyrexias,SY
+C0015967,Pyrexia NOS,SY
+C0015967,Temperature elevation,SY
+C0015967,TEMPERATURE ELEVATION,SY
+C0015967,temperature elevation,SY
+C0015967,Feverish,SY
+C0015967,feverish,SY
+C0015967,hyperthermic,SY
+C0015967,Hyperthermic,SY
+C0015967,increase temperature,SY
+C0015967,TEMPERATURE INCREASE,SY
+C0015967,increases temperature,SY
+C0015967,temperature increase,SY
+C0015967,Febrile,SY
+C0015967,febrile,SY
+C0015967,Has a temperature,SY
+C0015967,Body temperature above normal,SY
+C0015967,[D]Fever NOS,SY
+C0015967,Feels feverish,SY
+C0015967,Temperature raised,SY
+C0015967,raised temperature,SY
+C0015967,Alteration in body temperature: hyperthermia,SY
+C0015967,High body temperature,SY
+C0015967,high body temperature,SY
+C0015967,Pyrexia [D],SY
+C0015967,[D]Pyrexia,SY
+C0015967,Temperature elevated,SY
+C0015967,elevated temperature,SY
+C0015967,High temperature,SY
+C0015967,Temperature;high,SY
+C0015967,temperature; high,SY
+C0015967,high temperature,SY
+C0015967,high; temperature,SY
+C0015967,Pyrexial,SY
+C0015967,pyrexial,SY
+C0015967,febris,SY
+C0015967,hyperthermia (physical finding),SY
+C0015967,Body temperature above normal (finding),SY
+C0015967,Increased body temperature (finding) [Ambiguous],SY
+C0015967,Hyperthermia [Ambiguous],SY
+C0015967,Increased body temperature (finding),SY
+C0015967,[D]Fever NOS (context-dependent category),SY
+C0015967,[D]Pyrexia (context-dependent category),SY
+C0015967,Pyrexia [D] (finding),SY
+C0015967,Hyperthermia - disorder,SY
+C0015967,Fever (finding),SY
+C0015967,Pyrexia (finding),SY
+C0015967,Elevated Core Body Temperature,SY
+C0015967,[D]Fever NOS (situation),SY
+C0015967,[D]Pyrexia (situation),SY
+C0015967,Pyrexia [D] (situation),SY
+C0015967,fever (physical finding),SY
+C0015967,pyrexia (diagnosis),SY
+C0015967,Hyperthermia (finding),SY
+C0015967,Body temperature above reference range,SY
+C0015967,Body temperature above reference range (finding),SY
+C0015967,rndx hyperthermia (diagnosis),SY
+C0015967,rndx hyperthermia,SY
+C0015970,Fever of Unknown Origin,PT
+C0015970,fever of origin unknown,SY
+C0015970,FEVER OF UNKNOWN ORIGIN,SY
+C0015970,Fever of unknown origin,SY
+C0015970,fever of unknown origin,SY
+C0015970,Unknown Origin Fever,SY
+C0015970,Unknown Origin Fevers,SY
+C0015970,fever origin unknown,SY
+C0015970,fever unknown origin,SY
+C0015970,fevers origin unknown,SY
+C0015970,fevers unknown origin,SY
+C0015970,unknown origin fever,SY
+C0015970,FEVER UNKNOWN ORIGIN,SY
+C0015970,Fever;unknown origin,SY
+C0015970,fever; unknown origin,SY
+C0015970,unknown origin; fever,SY
+C0015970,Pyrexia of unknown origin,SY
+C0015970,pyrexia of unknown origin,SY
+C0015970,Pyrexia of unknown origin NOS,SY
+C0015970,Pyrexia;unknown origin,SY
+C0015970,F.U.O.,SY
+C0015970,f u o,SY
+C0015970,f.u.o.,SY
+C0015970,[D]Fever of unknown origin,SY
+C0015970,[D]Pyrexia of unknown orig.NOS,SY
+C0015970,[D]Pyrexia of unknown origin,SY
+C0015970,[D]Pyrexia of unknown origin NOS,SY
+C0015970,Pyrexia of unknown orig.NOS,SY
+C0015970,PUO - Pyrexia of unknown origin,SY
+C0015970,PUO Pyrexia of unknown origin,SY
+C0015970,Fever of unknown origin (F.U.O.),SY
+C0015970,[D]Pyrexia of unknown origin NOS (context-dependent category),SY
+C0015970,[D]Pyrexia of unknown origin (context-dependent category),SY
+C0015970,Pyrexia of unknown origin (finding),SY
+C0015970,febris; PUO,SY
+C0015970,PUO; febris,SY
+C0015970,unknown origin; hyperpyrexia,SY
+C0015970,hyperpyrexia; unknown origin,SY
+C0015970,[D]Pyrexia of unknown origin (situation),SY
+C0015970,[D]Pyrexia of unknown origin NOS (situation),SY
+C0015970,Fever of unknown origin [FUO],SY
+C0015970,fever of unknown origin fuo,SY
+C0015970,Fever of unknown origin (FUO),SY
+C0015970,FUO,SY
+C0015970,fuo,SY
+C0015970,fever of unknown origin (diagnosis),SY
+C0018681,Headache,PT
+C0018681,HEADACHE,SY
+C0018681,headache,SY
+C0018681,Headaches,SY
+C0018681,headaches,SY
+C0018681,Headache NOS,SY
+C0018681,ha,SY
+C0018681,HA,SY
+C0018681,ache head,SY
+C0018681,HEAD ACHE,SY
+C0018681,head ache,SY
+C0018681,Cephalalgia,SY
+C0018681,CEPHALALGIA,SY
+C0018681,cephalalgia,SY
+C0018681,Cephalalgias,SY
+C0018681,Cephalgia,SY
+C0018681,CEPHALGIA,SY
+C0018681,cephalgia,SY
+C0018681,cephalgias,SY
+C0018681,Cephalgias,SY
+C0018681,HEAD PAIN CEPHALGIA,SY
+C0018681,Head Pain,SY
+C0018681,PAIN HEAD,SY
+C0018681,Pain head,SY
+C0018681,Pain;head,SY
+C0018681,pain; head,SY
+C0018681,HEAD PAIN,SY
+C0018681,Head pain,SY
+C0018681,head; pain,SY
+C0018681,head pain,SY
+C0018681,Pain in head,SY
+C0018681,Pain in head NOS,SY
+C0018681,head pained,SY
+C0018681,head pains,SY
+C0018681,Head Pains,SY
+C0018681,Head,SY
+C0018681,pain in head,SY
+C0018681,Cephalodynia,SY
+C0018681,cephalodynia,SY
+C0018681,[D]Pain in head NOS,SY
+C0018681,[D]Headache,SY
+C0018681,Headache (excl N02 N89 R09),SY
+C0018681,Headache (excluding N02 N89 R09),SY
+C0018681,HA - Headache,SY
+C0018681,Have headaches,SY
+C0018681,Cephalodynias,SY
+C0018681,Cranial Pain,SY
+C0018681,cranial pain,SY
+C0018681,Cranial Pains,SY
+C0018681,Cranial,SY
+C0018681,[D]Pain in head NOS (context-dependent category),SY
+C0018681,[D]Headache (context-dependent category),SY
+C0018681,Headache (finding),SY
+C0018681,[D]Pain in head NOS (situation),SY
+C0018681,[D]Headache (situation),SY
+C0018681,headache (symptom),SY
+C0019079,Hemoptysis,PT
+C0019079,HEMOPTYSIS,SY
+C0019079,hemoptysis,SY
+C0019079,Hemoptyses,SY
+C0019079,HAEMOPTYSIS,SY
+C0019079,Haemoptysis,SY
+C0019079,Haemoptysis NOS,SY
+C0019079,Hemoptysis NOS,SY
+C0019079,hemoptyses,SY
+C0019079,haemoptysis,SY
+C0019079,Coughing blood,SY
+C0019079,COUGHING BLOOD,SY
+C0019079,coughing blood,SY
+C0019079,blood coughed,SY
+C0019079,Coughing;blood,SY
+C0019079,Coughing up blood,SY
+C0019079,coughing up blood,SY
+C0019079,Coughing up Blood,SY
+C0019079,cough up blood,SY
+C0019079,Sputum bloody,SY
+C0019079,BLOODY SPUTUM,SY
+C0019079,bloody sputum,SY
+C0019079,SPUTUM BLOODY,SY
+C0019079,Expectoration of blood streaked sputum,SY
+C0019079,Expectoration of bloody sputum,SY
+C0019079,Expectoration of hemorrhagic sputum,SY
+C0019079,Expectoration of haemorrhagic sputum,SY
+C0019079,[D]Haemoptysis,SY
+C0019079,[D]Haemoptysis NOS,SY
+C0019079,[D]Hemoptysis,SY
+C0019079,[D]Hemoptysis NOS,SY
+C0019079,Blood in sputum - haemoptysis,SY
+C0019079,Blood in sputum - hemoptysis,SY
+C0019079,Blood streaked sputum,SY
+C0019079,blood streaked sputum,SY
+C0019079,Coughing and spitting blood,SY
+C0019079,spitting (up) blood,SY
+C0019079,Spitting (up);blood,SY
+C0019079,blood spit up,SY
+C0019079,spit up blood,SY
+C0019079,spitting up blood,SY
+C0019079,blood spitting up,SY
+C0019079,Blood streaked sputum (finding),SY
+C0019079,Blood in sputum - hemoptysis [& symptom],SY
+C0019079,Blood in sputum - haemoptysis [& symptom],SY
+C0019079,Blood in sputum-symptom,SY
+C0019079,Sputum + blood-symptom,SY
+C0019079,Blood in sputum - symptom,SY
+C0019079,[D]Hemoptysis NOS (context-dependent category),SY
+C0019079,[D]Hemoptysis (context-dependent category),SY
+C0019079,Hemoptysis (finding),SY
+C0019079,Hemoptysis - symptom,SY
+C0019079,Haemoptysis - symptom,SY
+C0019079,[D]Hemoptysis (situation),SY
+C0019079,[D]Hemoptysis NOS (situation),SY
+C0019079,[D]Haemoptysis (situation),SY
+C0019079,[D]Haemoptysis NOS (situation),SY
+C0019079,Hemoptysis (disorder),SY
+C0019079,coughing up blood-streaked sputum,SY
+C0019079,coughing up blood-streaked sputum (symptom),SY
+C0019079,coughing up blood (symptom),SY
+C0019079,coughing up blood (hemoptysis),SY
+C0019079,Blood in sputum - haemoptysis (finding),SY
+C0019079,Blood in sputum - hemoptysis (finding),SY
+C0019079,Blood in sputum - haemoptysis [& symptom] (finding),SY
+C0019080,Hemorrhage,PT
+C0019080,HEMORRHAGE,SY
+C0019080,hemorrhage,SY
+C0019080,Hemorrhages,SY
+C0019080,HAEMORRHAGE NOS,SY
+C0019080,HEMORRHAGE NOS,SY
+C0019080,HEMORRHAGES,SY
+C0019080,Haemorrhage,SY
+C0019080,Haemorrhage NOS,SY
+C0019080,Hemorrhage NOS,SY
+C0019080,haemorrhages,SY
+C0019080,hemorrhages,SY
+C0019080,HEMORRHAGE (NOS),SY
+C0019080,Hemorrhage (NOS),SY
+C0019080,haemorrhage,SY
+C0019080,Bleeding,SY
+C0019080,BLEEDING,SY
+C0019080,bleeding,SY
+C0019080,bleeds,SY
+C0019080,bleed,SY
+C0019080,BLEED_NOS,SY
+C0019080,Extravasation of blood,SY
+C0019080,EXTRAVASATION BLOOD,SY
+C0019080,Extravasation blood,SY
+C0019080,blood; extravasation,SY
+C0019080,extravasation; blood,SY
+C0019080,Bleeding (disorder),SY
+C0019080,Blood loss,SY
+C0019080,BLOOD LOSS,SY
+C0019080,blood loss,SY
+C0019080,Blood loss of (NOS),SY
+C0019080,Hem,SY
+C0019080,HEM,SY
+C0019080,Hemorrhage term,SY
+C0019080,37 HEMORRHAGES,SY
+C0019080,bleeding problems,SY
+C0019080,bleeding problem,SY
+C0019080,BLEED_NOS PROBLEM,SY
+C0019080,Hemorrhage (morphologic abnormality),SY
+C0019080,Bleeding (finding),SY
+C0019080,Bleeding -RETIRED-,SY
+C0019080,Hemorrhage NOS (disorder),SY
+C0019080,Haemorrhage NOS (disorder),SY
+C0019080,hemorrhage (diagnosis),SY
+C0019080,bleeding (symptom),SY
+C0020192,Hyaline Membrane Disease,PT
+C0020192,HYALINE MEMBRANE DISEASE,SY
+C0020192,Hyaline membrane disease,SY
+C0020192,hyaline membrane disease,SY
+C0020192,Diseases,SY
+C0020192,Hyaline Membrane,SY
+C0020192,Hyaline Membrane Diseases,SY
+C0020192,Disease,SY
+C0020192,newborn rds,SY
+C0020192,newborns rds,SY
+C0020192,HMD - Hyaline membrane disease,SY
+C0020192,distress newborn respiratory,SY
+C0020192,distress newborns respiratory,SY
+C0020192,respiratory distress of newborn,SY
+C0020192,newborn respiratory distress,SY
+C0020192,respiratory distress newborn,SY
+C0020192,Pulmonary hyaline membrane disease,SY
+C0020192,HYALINE MEMBRANE DIS,SY
+C0020192,Hyaline membrane disease (disorder),SY
+C0021400,Influenza,PT
+C0021400,INFLUENZA,SY
+C0021400,influenza,SY
+C0021400,Influenzas,SY
+C0021400,Influenza NOS,SY
+C0021400,influenzas,SY
+C0021400,Influenzae,SY
+C0021400,Flu,SY
+C0021400,FLU,SY
+C0021400,flu,SY
+C0021400,Grippe,SY
+C0021400,grippe,SY
+C0021400,GRIP,SY
+C0021400,Syndrome flu,SY
+C0021400,FLU SYNDROME,SY
+C0021400,flu syndrome,SY
+C0021400,Flu syndrome,SY
+C0021400,SYNDROME FLU,SY
+C0021400,Influenza (disorder),SY
+C0021400,Influenza NOS (disorder),SY
+C0021400,Human Flu,SY
+C0021400,Human,SY
+C0021400,Human Influenzas,SY
+C0021400,Influenza in Humans,SY
+C0021400,Influenza in Human,SY
+C0021400,Human Influenza,SY
+C0021400,influenza (diagnosis),SY
+C0021400,flus,SY
+C0021932,"Intubation, Intratracheal",PT
+C0021932,intratracheal intubation,SY
+C0021932,Intratracheal Intubations,SY
+C0021932,Intubations,SY
+C0021932,Intratracheal,SY
+C0021932,Intratracheal Intubation,SY
+C0021932,Intubation of trachea,SY
+C0021932,trachea intubation,SY
+C0021932,Trachea--Intubation,SY
+C0021932,Intubation,SY
+C0021932,Endotracheal,SY
+C0021932,endotracheal intubation,SY
+C0021932,Endotracheal intubation,SY
+C0021932,intubation endotracheal,SY
+C0021932,INTUBATION ENDOTRACHEAL,SY
+C0021932,Endotracheal Intubations,SY
+C0021932,Endotracheal intubation NOS,SY
+C0021932,endotracheal intubations,SY
+C0021932,Endotracheal Intubation,SY
+C0021932,Tracheal intubation,SY
+C0021932,intubation tracheal,SY
+C0021932,tracheal intubation,SY
+C0021932,Tracheal Intubation,SY
+C0021932,Insertion of endotracheal tube,SY
+C0021932,Endotracheal tube insertion,SY
+C0021932,endotracheal tube insertion,SY
+C0021932,Insertion of endotracheal tube (procedure),SY
+C0021932,Endotracheal tube insertion (procedure),SY
+C0021932,Endotracheal intubation NOS (procedure),SY
+C0021932,Insert endotracheal tube,SY
+C0021932,endotracheal tube insertion (treatment),SY
+C0021932,insertion of endotracheal (ET) tube,SY
+C0021932,Tracheal intubation (procedure),SY
+C0024312,Lymphopenia,PT
+C0024312,LYMPHOPENIA,SY
+C0024312,lymphopenia,SY
+C0024312,Lymphopenias,SY
+C0024312,Lymphocytopenia,SY
+C0024312,LYMPHOCYTOPENIA,SY
+C0024312,lymphocytopenia,SY
+C0024312,Lymphocytopenias,SY
+C0024312,Decreased lymphocytes,SY
+C0024312,decreased lymphocytes,SY
+C0024312,decreased lymphocyte,SY
+C0024312,Disorder characterized by lymphopenia,SY
+C0024312,Decreased blood lymphocyte number,SY
+C0024312,Low lymphocyte number,SY
+C0024312,Lymphocytopenia (disorder),SY
+C0024312,Absolute lymphocyte count decrease,SY
+C0024312,lymphocytopenia (diagnosis),SY
+C0024312,lymphopenia (diagnosis),SY
+C0027424,Nasal congestion (finding),PT
+C0027424,Congestion of nose,SY
+C0027424,NOSE CONGESTION,SY
+C0027424,nose congestion,SY
+C0027424,Nose congestion,SY
+C0027424,Nasal congestion,SY
+C0027424,CONGESTION NASAL,SY
+C0027424,Congestion nasal,SY
+C0027424,Congestion;nasal,SY
+C0027424,NASAL CONGESTION,SY
+C0027424,Nasal Congestion,SY
+C0027424,nasal congestion,SY
+C0027424,Congested nose,SY
+C0027424,congested nose,SY
+C0027424,Stuffed-up nose,SY
+C0027424,Nasal stuffiness,SY
+C0027424,Nasal Stuffiness,SY
+C0027424,NASAL STUFFINESS,SY
+C0027424,nasal stuffiness,SY
+C0027424,nasal passage blockage (stuffiness) (symptom),SY
+C0027424,blocked nose,SY
+C0027424,Blocked nose,SY
+C0027424,blocking nose,SY
+C0027424,nose block,SY
+C0027424,Stuffy nose,SY
+C0027424,stuffy nose,SY
+C0027424,nasal passage blockage,SY
+C0027424,nasal passage blockage (stuffiness),SY
+C0027497,Nausea,PT
+C0027497,NAUSEA,SY
+C0027497,nausea,SY
+C0027497,Nausea NOS,SY
+C0027497,nauseas,SY
+C0027497,Feeling queasy,SY
+C0027497,FEELING QUEASY,SY
+C0027497,Nauseated,SY
+C0027497,nauseated,SY
+C0027497,nauseating,SY
+C0027497,Nauseous,SY
+C0027497,nauseous,SY
+C0027497,Feeling bilious,SY
+C0027497,[D]Nausea,SY
+C0027497,Feeling sick,SY
+C0027497,sick feeling,SY
+C0027497,feeling sick,SY
+C0027497,feel sick,SY
+C0027497,Queasy,SY
+C0027497,QUEASY,SY
+C0027497,queasy,SY
+C0027497,C/O - nausea,SY
+C0027497,nausea (symptom),SY
+C0027497,Nausea symptoms,SY
+C0027497,nausea symptoms,SY
+C0027497,nausea symptom,SY
+C0027497,symptoms nausea,SY
+C0027497,symptom nausea,SY
+C0027497,Observation of nausea,SY
+C0027497,[D]Nausea (context-dependent category),SY
+C0027497,Finding of nausea (finding),SY
+C0027497,Nausea (finding),SY
+C0027497,Finding of nausea,SY
+C0027497,Nausea NOS (finding),SY
+C0027497,[D]Nausea (situation),SY
+C0027497,Nausea (disorder),SY
+C0027497,rndx nausea (diagnosis),SY
+C0027497,rndx nausea,SY
+C0027498,Nausea and vomiting,PT
+C0027498,vomiting and nausea,SY
+C0027498,Vomiting and Nausea,SY
+C0027498,NAUSEA AND VOMITING,SY
+C0027498,nausea and vomiting,SY
+C0027498,Nausea and Vomiting,SY
+C0027498,Nausea and vomiting NOS,SY
+C0027498,Nausea with vomiting,SY
+C0027498,NAUSEA VOMITING,SY
+C0027498,Nausea/vomiting,SY
+C0027498,nausea/vomiting,SY
+C0027498,nausea with vomiting,SY
+C0027498,[D]Nausea and vomiting,SY
+C0027498,[D]Nausea and vomiting NOS,SY
+C0027498,N+V - Nausea and vomiting,SY
+C0027498,N&V - Nausea and vomiting,SY
+C0027498,Nausea and vomiting symptoms,SY
+C0027498,nausea with vomiting (symptom),SY
+C0027498,[D]Nausea and vomiting NOS (context-dependent category),SY
+C0027498,[D]Nausea and vomiting (context-dependent category),SY
+C0027498,Nausea and vomiting (disorder),SY
+C0027498,[D]Nausea and vomiting (situation),SY
+C0027498,[D]Nausea and vomiting NOS (situation),SY
+C0032285,Pneumonia,PT
+C0032285,PNEUMONIA,SY
+C0032285,pneumonia,SY
+C0032285,Pneumonias,SY
+C0032285,Pneumonia NOS,SY
+C0032285,Pneumoniae,SY
+C0032285,Pneumonitis,SY
+C0032285,unspecified pneumonia,SY
+C0032285,Lung inflamed,SY
+C0032285,pneum,SY
+C0032285,PNEUM,SY
+C0032285,Lung inflammation,SY
+C0032285,lung inflammation,SY
+C0032285,inflammation lungs,SY
+C0032285,Pulmonary inflammation,SY
+C0032285,pulmonary inflammation,SY
+C0032285,Pulmonitis,SY
+C0032285,Pneumonia (disorder) [Ambiguous],SY
+C0032285,Pneumonia (disorder),SY
+C0032285,Pneumonia NOS (disorder),SY
+C0032285,pneumonia (diagnosis),SY
+C0034642,Rales,PT
+C0034642,RALES,SY
+C0034642,rales,SY
+C0034642,Rale,SY
+C0034642,rale,SY
+C0034642,Crackles,SY
+C0034642,CRACKLES,SY
+C0034642,crackles,SY
+C0034642,Crackle,SY
+C0034642,crackle,SY
+C0034642,chest crepitation,SY
+C0034642,Crepitation;chest,SY
+C0034642,CHEST CREPITATION,SY
+C0034642,Crepitations,SY
+C0034642,crepitations,SY
+C0034642,Crepitation,SY
+C0034642,crepitation,SY
+C0034642,Crepitations NOS,SY
+C0034642,Crepitant rales,SY
+C0034642,crepitant rale,SY
+C0034642,Respiratory crackles,SY
+C0034642,Respiratory crepitations,SY
+C0034642,Respiratory crepitation,SY
+C0034642,[D]Rales,SY
+C0034642,PULMONARY RALES/CRACKLES/CREPITATIONS,SY
+C0034642,Pulmonary Rales,SY
+C0034642,Lung crepitation,SY
+C0034642,Crackles lung,SY
+C0034642,lung crackles,SY
+C0034642,Crackles in lungs,SY
+C0034642,[D]Rales (context-dependent category),SY
+C0034642,Respiratory crackles (finding),SY
+C0034642,Crepitation (finding),SY
+C0034642,Rales (finding),SY
+C0034642,[D]Rales (situation),SY
+C0034642,rales or crackles (physical finding),SY
+C0034642,rales or crackles,SY
+C0035222,"Respiratory Distress Syndrome, Adult",PT
+C0035222,SYNDROME ADULT RESPIRATORY DISTRESS,SY
+C0035222,SYNDROME RESPIRATORY DISTRESS ADULT,SY
+C0035222,ADULT RESPIRATORY DISTRESS SYNDROME,SY
+C0035222,Adult respiratory distress syndrome,SY
+C0035222,adult respiratory distress syndrome,SY
+C0035222,Syndrome adult respiratory distress,SY
+C0035222,Syndrome respiratory distress adult,SY
+C0035222,distress syndrome; respiratory,SY
+C0035222,adult,SY
+C0035222,distress; respiratory syndrome,SY
+C0035222,distress; respiratory,SY
+C0035222,syndrome,SY
+C0035222,syndrome; respiratory distress,SY
+C0035222,RESPIRATORY DISTRESS SYNDROME ADULT,SY
+C0035222,RESPIRATORY DISTRESS SYNDROME,SY
+C0035222,ADULT,SY
+C0035222,Respiratory distress syndrome,SY
+C0035222,Adult,SY
+C0035222,Respiratory distress syndrome adult,SY
+C0035222,respiratory distress; syndrome,SY
+C0035222,respiratory; distress,SY
+C0035222,DISTRESS RESPIRATORY SYNDROME ADULTS,SY
+C0035222,Distress respiratory syndrome adults,SY
+C0035222,Adult Respiratory Distress Syndrome,SY
+C0035222,Congestive atelectasis,SY
+C0035222,respiratory; distress syndrome,SY
+C0035222,Shock Lung,SY
+C0035222,lung; shock,SY
+C0035222,SHOCK LUNG,SY
+C0035222,Shock lung,SY
+C0035222,shock lung,SY
+C0035222,shock; lung,SY
+C0035222,Lung,SY
+C0035222,Shock,SY
+C0035222,shock-lung; syndrome,SY
+C0035222,Shock-lung syndrome,SY
+C0035222,syndrome; shock-lung,SY
+C0035222,wet lung,SY
+C0035222,ARDS,SY
+C0035222,Human ARDS,SY
+C0035222,Adult respiratory distress syndr,SY
+C0035222,ADULT RESPIRATORY DISTRESS SYNDR,SY
+C0035222,Adult respiratory stress syndrome,SY
+C0035222,ADULT RESPIRATORY STRESS SYNDROME,SY
+C0035222,ards,SY
+C0035222,wet lung syndrome,SY
+C0035222,WET LUNG SYNDROME,SY
+C0035222,DaNang lung,SY
+C0035222,danang lung,SY
+C0035222,Vietnam lung,SY
+C0035222,Acquired resp distress syndrom,SY
+C0035222,Acquired respiratory distress syndrome,SY
+C0035222,Respiratory Distress Syndrome,SY
+C0035222,Acute,SY
+C0035222,Acute respiratory distress syndrome,SY
+C0035222,RESPIRATORY DISTRESS SYNDROME ACUTE,SY
+C0035222,Acute Respiratory Distress Syndrome,SY
+C0035222,ARDS - Adult resp distr syndr,SY
+C0035222,ARDS - Adult respiratory distress syndrome,SY
+C0035222,adult respiratory distress syndrome (ARDS),SY
+C0035222,Adult hyaline membrane disease,SY
+C0035222,hyaline; disease,SY
+C0035222,membrane,SY
+C0035222,adult hyaline membrane disease,SY
+C0035222,Adult respiratory distr syndr,SY
+C0035222,Pulm capillary leak syndrome,SY
+C0035222,Pulmonary capillary leak syndrome,SY
+C0035222,Wet-lung syndrome,SY
+C0035222,Syndrome adult respiratory,SY
+C0035222,adult respiratory syndrome,SY
+C0035222,SYNDROME ADULT RESPIRATORY,SY
+C0035222,Respiratory distress syndrome (finding),SY
+C0035222,A.R.D.S.,SY
+C0035222,a r d s,SY
+C0035222,a.r.d.s.,SY
+C0035222,Adult RDS,SY
+C0035222,adult rds,SY
+C0035222,Acute respiratory distress syndrome (disorder),SY
+C0035222,RDS,SY
+C0035222,ARDSs,SY
+C0035222,Adult respiratory distress syndrome (disorder),SY
+C0035222,Resp. distress synd. - adult,SY
+C0035222,Respirat distress synd-adult,SY
+C0035222,adult respiratory distress syndrome (ARDS) (diagnosis),SY
+C0035222,ARDs - Acute respiratory distress syndrome,SY
+C0036572,Seizures,PT
+C0036572,seizures,SY
+C0036572,Seizure,SY
+C0036572,SEIZURE,SY
+C0036572,Seizure NOS,SY
+C0036572,seizure,SY
+C0036572,Convulsion,SY
+C0036572,CONVULSION,SY
+C0036572,convulsion,SY
+C0036572,Convulsions,SY
+C0036572,CONVULSIONS,SY
+C0036572,CONVULSION (NOS),SY
+C0036572,Convulsion NOS,SY
+C0036572,convulsions nos,SY
+C0036572,Convulsion (NOS),SY
+C0036572,Convulsions NOS,SY
+C0036572,convulsions,SY
+C0036572,Fit,SY
+C0036572,fit,SY
+C0036572,FITS NOS,SY
+C0036572,Fitting,SY
+C0036572,fit's,SY
+C0036572,fitted,SY
+C0036572,Fits NOS,SY
+C0036572,Fit(s),SY
+C0036572,fits,SY
+C0036572,Convulsion (disorder),SY
+C0036572,[D]Fit,SY
+C0036572,[D]Convulsions,SY
+C0036572,[D]Convulsion NOS,SY
+C0036572,[D]Seizure NOS,SY
+C0036572,seizure d,SY
+C0036572,Fit - convulsion,SY
+C0036572,Fits - convulsions,SY
+C0036572,A70-A72 CONVULSIONS,SY
+C0036572,sz,SY
+C0036572,[D]Convulsions (context-dependent category),SY
+C0036572,[D]Convulsion NOS (context-dependent category),SY
+C0036572,[D]Fit (context-dependent category),SY
+C0036572,convulsions (symptom),SY
+C0036572,Seizure (finding),SY
+C0036572,[D]Convulsions (situation),SY
+C0036572,[D]Convulsion NOS (situation),SY
+C0036572,[D]Fit (situation),SY
+C0036572,seizure (physical finding),SY
+C0036572,Fit - convulsion (finding),SY
+C0036572,Fits - convulsions (disorder),SY
+C0036973,Shivering,PT
+C0036973,SHIVERING,SY
+C0036973,shivering,SY
+C0036973,SHIVERS,SY
+C0036973,Shivered,SY
+C0036973,shiver,SY
+C0036973,Shivers,SY
+C0036973,shivers,SY
+C0036973,Shiverings,SY
+C0036973,Shivering or rigors,SY
+C0036973,Shivers (disorder),SY
+C0036973,Shiverer,SY
+C0036973,Equine shivers,SY
+C0036973,Shuddering,SY
+C0036973,Shivering or rigors (finding),SY
+C0036973,Shivering (finding),SY
+C0037284,Skin lesion,PT
+C0037284,lesion skin,SY
+C0037284,lesion; skin,SY
+C0037284,SKIN LESION,SY
+C0037284,Skin Lesion,SY
+C0037284,skin lesion,SY
+C0037284,skin; lesion,SY
+C0037284,lesions skin,SY
+C0037284,Skin lesion NOS,SY
+C0037284,Skin lesions,SY
+C0037284,skin lesions,SY
+C0037284,skin lesion(s):,SY
+C0037284,skin lesions:,SY
+C0037284,Skin lesion (disorder),SY
+C0037284,disorder lesions skin,SY
+C0037284,disorders lesions skin,SY
+C0037284,skin lesions (physical finding),SY
+C0037284,skin lesions (symptom),SY
+C0037299,Skin Ulcer,PT
+C0037299,ULCER SKIN,SY
+C0037299,Ulcer skin,SY
+C0037299,Ulcer;skin,SY
+C0037299,ulcer; skin,SY
+C0037299,SKIN ULCER,SY
+C0037299,skin ulcer,SY
+C0037299,Skin ulcer,SY
+C0037299,skin; ulcer,SY
+C0037299,Skin Ulcers,SY
+C0037299,Ulcers,SY
+C0037299,Ulcer of skin,SY
+C0037299,Skin Ulcer(s),SY
+C0037299,skin ulcers,SY
+C0037299,Skin ulcer NOS,SY
+C0037299,Ulcer of skin NOS,SY
+C0037299,Skin ulcers,SY
+C0037299,Ulcer,SY
+C0037299,Skin ulceration,SY
+C0037299,SKIN ULCERATION,SY
+C0037299,skin ulceration,SY
+C0037299,Skin Ulceration,SY
+C0037299,skin ulcerations,SY
+C0037299,Cutaneous ulcer,SY
+C0037299,cutaneous ulcer,SY
+C0037299,cutaneous ulcers,SY
+C0037299,Cutaneous ulcers,SY
+C0037299,skin sores,SY
+C0037299,sore on skin,SY
+C0037299,Cutaneous ulceration,SY
+C0037299,Open skin sore,SY
+C0037299,skin ulcer (physical finding),SY
+C0037299,Physical findings.skin ulcer,SY
+C0037299,Skin ulcer (disorder),SY
+C0037361,Smell Perception,PT
+C0037361,smell perception,SY
+C0037361,Sense of Smell,SY
+C0037361,sense of smell,SY
+C0037361,Smell Sense,SY
+C0037361,smell,SY
+C0037361,Smelling,SY
+C0037361,smelled,SY
+C0037361,smelling,SY
+C0037361,smells,SY
+C0037361,Ability to recognise smell,SY
+C0037361,Ability to recognize smell,SY
+C0037361,olfactory,SY
+C0037361,Olfactory,SY
+C0037361,Olfactory Perception,SY
+C0037361,olfactory sense,SY
+C0037361,Olfaction,SY
+C0037361,olfaction,SY
+C0037361,function (observable entity),SY
+C0037361,function,SY
+C0037361,Sense of smell (function),SY
+C0037361,scent perception,SY
+C0037361,sensory perception of smell,SY
+C0038056,Sputum,PT
+C0038056,sputum,SY
+C0038056,SPUTUM,SY
+C0038056,Sputums,SY
+C0038056,Expectoration,SY
+C0038056,Portion of sputum,SY
+C0038056,Sputum (substance),SY
+C0040822,Tremor,PT
+C0040822,TREMOR,SY
+C0040822,tremor,SY
+C0040822,Tremors,SY
+C0040822,TREMORS,SY
+C0040822,Tremor NOS,SY
+C0040822,tremors,SY
+C0040822,The shakes,SY
+C0040822,the shakes,SY
+C0040822,SHAKING,SY
+C0040822,Shakes,SY
+C0040822,Shaking,SY
+C0040822,shakes,SY
+C0040822,shake,SY
+C0040822,shaking,SY
+C0040822,quivering,SY
+C0040822,quivers,SY
+C0040822,quiver,SY
+C0040822,trembles,SY
+C0040822,Trembled,SY
+C0040822,Trembling,SY
+C0040822,Has a tremor,SY
+C0040822,[D]Tremor NOS,SY
+C0040822,d tremors,SY
+C0040822,Tremor [D],SY
+C0040822,[D]Tremor,SY
+C0040822,Shaking all over,SY
+C0040822,tremor (diagnosis),SY
+C0040822,Involuntary shaking,SY
+C0040822,A46-A47 TREMORS,SY
+C0040822,motor exam involuntary movements tremor trembles,SY
+C0040822,trembles (physical finding),SY
+C0040822,(Has a tremor) or (tremor symptom) or (shaking),SY
+C0040822,[D]Tremor NOS (context-dependent category),SY
+C0040822,[D]Tremor (context-dependent category),SY
+C0040822,Tremor [D] (finding),SY
+C0040822,Tremor (finding),SY
+C0040822,Tremor symptom,SY
+C0040822,Shaking/Tremors,SY
+C0040822,Tremors/Shaking,SY
+C0040822,[D]Tremor (situation),SY
+C0040822,[D]Tremor NOS (situation),SY
+C0040822,Tremor [D] (situation),SY
+C0040822,tremors as symptom,SY
+C0040822,involuntary shaking or trembling movements,SY
+C0040822,involuntary shaking or trembling movements (tremor),SY
+C0040822,tremor (physical finding),SY
+C0040822,involuntary shaking or trembling movements (symptom),SY
+C0040822,(Has a tremor) or (tremor symptom) or (shaking) (finding),SY
+C0041582,ULCER,SY
+C0041582,ulcer,SY
+C0041582,ULCERS,SY
+C0041582,ulcers,SY
+C0041582,Ulcer NOS,SY
+C0041582,Ulcerative lesion,SY
+C0041582,lesions ulcerative,SY
+C0041582,Ulcerated,SY
+C0041582,ulcerated,SY
+C0041582,Ulcerating,SY
+C0041582,ulcerates,SY
+C0041582,ulcerate,SY
+C0041582,ulcerating,SY
+C0041582,Ulcerative,SY
+C0041582,ulcerative,SY
+C0041582,ulceratives,SY
+C0041582,Ulcus,SY
+C0041582,Ulcer - lesion,SY
+C0041582,ulcer lesion,SY
+C0041582,lesions ulcers,SY
+C0041582,lesions ulcer,SY
+C0041582,38 ULCERS,SY
+C0041582,Ulceration,SY
+C0041582,ulceration,SY
+C0041582,ulcerations,SY
+C0041582,Ulcer (morphologic abnormality),SY
+C0041582,Ulcerative (qualifier value),SY
+C0041582,Ulcer (disorder),SY
+C0041834,Erythema,PT
+C0041834,ERYTHEMA,SY
+C0041834,erythema,SY
+C0041834,Erythemas,SY
+C0041834,erythemas,SY
+C0041834,ERYTHEMA NOS,SY
+C0041834,Erythema NOS,SY
+C0041834,Unspecified erythematous condition,SY
+C0041834,Erythematous condition,SY
+C0041834,erythematous condition,SY
+C0041834,Erythematous conditions,SY
+C0041834,Erythematous conditions NOS,SY
+C0041834,Erythema of skin,SY
+C0041834,erythema of skin,SY
+C0041834,SKIN ERYTHEMA,SY
+C0041834,skin erythema,SY
+C0041834,Skin erythema,SY
+C0041834,Injection (erythema),SY
+C0041834,Redness,SY
+C0041834,Erythematous disorder,SY
+C0041834,Skin red,SY
+C0041834,Red skin,SY
+C0041834,SKIN RED,SY
+C0041834,erythematous condition (diagnosis),SY
+C0041834,Cutaneous redness,SY
+C0041834,Dermal erythema,SY
+C0041834,Skin reddened,SY
+C0041834,Redness of skin or mucous membrane,SY
+C0041834,redness of skin,SY
+C0041834,redness skin,SY
+C0041834,skin redness,SY
+C0041834,Skin redness,SY
+C0041834,Erythema (morphologic abnormality),SY
+C0041834,Erythematous condition (disorder),SY
+C0041834,Erythematous conditions NOS (disorder),SY
+C0041834,Erythema (finding),SY
+C0041834,erythema findings,SY
+C0041834,Erythema - observation,SY
+C0041834,Erythematous cond NOS,SY
+C0041834,erythema of skin (physical finding),SY
+C0041834,unusual change in color of skin to red (erythema),SY
+C0041834,unusual change in color of skin to red (erythema) (symptom),SY
+C0041834,Erythematous disorder (disorder),SY
+C0041834,Erythema of skin (finding),SY
+C0041912,Upper Respiratory Infections,PT
+C0041912,upper respiratory infections,SY
+C0041912,Upper respiratory infection,SY
+C0041912,Respiratory Infection,SY
+C0041912,Upper,SY
+C0041912,INFECTION UPPER RESPIRATORY,SY
+C0041912,UPPER RESPIRATORY INFECTION,SY
+C0041912,Upper Respiratory Infection,SY
+C0041912,Upper respiratory infection NOS,SY
+C0041912,upper respiratory infection,SY
+C0041912,Infection upper respiratory,SY
+C0041912,Infections,SY
+C0041912,Upper Respiratory,SY
+C0041912,Cold,SY
+C0041912,U.R.I.,SY
+C0041912,Upper respiratory tract infectious disease,SY
+C0041912,upper resp tract infection,SY
+C0041912,Infection;upper resp tract,SY
+C0041912,UPPER RESP TRACT INFECTION,SY
+C0041912,Upper resp tract infection,SY
+C0041912,Infection of upper resp tract,SY
+C0041912,Upper Respiratory Tract Infections,SY
+C0041912,Upper respiratory tract infections,SY
+C0041912,Infection of the upper respiratory tract,SY
+C0041912,Upper respiratory tract infection,SY
+C0041912,Upper respiratory tract infection NOS,SY
+C0041912,RESPIRATORY TRACT INFECTION UPPER,SY
+C0041912,Upper Respiratory Tract Infection,SY
+C0041912,Infection,SY
+C0041912,Upper Respiratory Tract,SY
+C0041912,URI,SY
+C0041912,uri,SY
+C0041912,UPPER RESPIRATORY INFECT,SY
+C0041912,Upper respiratory infect.NOS,SY
+C0041912,INFECT UPPER RESPIRATORY,SY
+C0041912,Upper respiratory tract infecn,SY
+C0041912,URTI - Infection of the upper respiratory tract,SY
+C0041912,upper respiratory tract infection (URTI),SY
+C0041912,URTI (upper respiratory tract infection),SY
+C0041912,URTI - Infectn upper resp trct,SY
+C0041912,URTI,SY
+C0041912,Upper respiratory infection (disorder),SY
+C0041912,Upper respiratory infection NOS (disorder),SY
+C0041912,URI - Upper respiratory infection,SY
+C0041912,upper respiratory infection (URI),SY
+C0041912,URI (upper respiratory infection),SY
+C0041912,upper respiratory infection (diagnosis),SY
+C0041912,Infection of the upper respiratory tract (disorder),SY
+C0042963,Vomiting,PT
+C0042963,VOMITING,SY
+C0042963,vomiting,SY
+C0042963,Vomiting NOS,SY
+C0042963,vomited,SY
+C0042963,vomits,SY
+C0042963,vomit,SY
+C0042963,Vomited,SY
+C0042963,VOMIT,SY
+C0042963,Emesis,SY
+C0042963,EMESIS,SY
+C0042963,emesis,SY
+C0042963,Being sick,SY
+C0042963,[D]Emesis,SY
+C0042963,[D]Vomiting,SY
+C0042963,Throwing up,SY
+C0042963,throwing up,SY
+C0042963,throw up,SY
+C0042963,Vomiting (disorder),SY
+C0042963,Vomiting disorder,SY
+C0042963,Vomiting NOS (disorder),SY
+C0042963,Vomiting symptom,SY
+C0042963,vomiting (symptom),SY
+C0042963,Vomiting symptoms,SY
+C0042963,symptoms vomiting,SY
+C0042963,vomiting symptoms,SY
+C0042963,Observation of vomiting,SY
+C0042963,[D]Emesis (context-dependent category),SY
+C0042963,[D]Vomiting (context-dependent category),SY
+C0042963,Vomiting symptoms (disorder),SY
+C0042963,Finding of vomiting (finding),SY
+C0042963,Finding of vomiting,SY
+C0042963,Vomiting (finding),SY
+C0042963,Vomiting NOS (finding),SY
+C0042963,regurgitation; gastric contents,SY
+C0042963,gastric contents; regurgitation,SY
+C0042963,Vomiting symptom (finding),SY
+C0042963,[D]Emesis (situation),SY
+C0042963,[D]Vomiting (situation),SY
+C0042963,vomiting (physical finding),SY
+C0042963,Vomiting disorder (disorder),SY
+C0042963,vomiting was observed,SY
+C0043144,Wheezing,PT
+C0043144,WHEEZING,SY
+C0043144,wheezing,SY
+C0043144,Wheezings,SY
+C0043144,WHEEZES,SY
+C0043144,Wheeze,SY
+C0043144,wheezes,SY
+C0043144,wheeze,SY
+C0043144,Wheezes,SY
+C0043144,[D]Wheezing,SY
+C0043144,Wheezy,SY
+C0043144,wheezy,SY
+C0043144,[D]Wheezing (context-dependent category),SY
+C0043144,Wheezing (finding),SY
+C0043144,[D]Wheezing (situation),SY
+C0043144,wheezing [as a symptom],SY
+C0043144,reported wheezing (symptom),SY
+C0043144,reported wheezing,SY
+C0085593,Chills,PT
+C0085593,CHILLS,SY
+C0085593,chills,SY
+C0085593,Chill,SY
+C0085593,chill,SY
+C0085593,Chill(s) NOS,SY
+C0085593,Chilling,SY
+C0085593,chilling,SY
+C0085593,CHILL,SY
+C0085593,Chills NOS,SY
+C0085593,ague,SY
+C0085593,shaking chills,SY
+C0085593,shaking chill,SY
+C0085593,chill shaking,SY
+C0085593,chills shakes,SY
+C0085593,chills shaking,SY
+C0085593,[D]Chill(s) NOS,SY
+C0085593,[D]Chill(s) NOS (context-dependent category),SY
+C0085593,Chill (finding),SY
+C0085593,[D]Chill(s) NOS (situation),SY
+C0085593,chills (symptom),SY
+C0085593,reported chills,SY
+C0086525,Lassitude,PT
+C0086525,LASSITUDE,SY
+C0086525,lassitude,SY
+C0086525,[D]Lassitude,SY
+C0149514,Acute bronchitis,PT
+C0149514,BRONCHITIS,SY
+C0149514,ACUTE,SY
+C0149514,BRONCHITIS ACUTE,SY
+C0149514,Bronchitis acute,SY
+C0149514,Bronchitis;acute,SY
+C0149514,Bronchitis - acute,SY
+C0149514,bronchitis; acute,SY
+C0149514,ACUTE BRONCHITIS,SY
+C0149514,acute bronchitis,SY
+C0149514,acute; bronchitis,SY
+C0149514,Acute Bronchitis,SY
+C0149514,Acute bronchitis NOS,SY
+C0149514,Bronchitis acute NOS,SY
+C0149514,bronchitis,SY
+C0149514,Acute tracheobronchitis,SY
+C0149514,Tracheobronchitis,SY
+C0149514,acute,SY
+C0149514,Tracheobronchitis - acute,SY
+C0149514,acute; tracheobronchitis,SY
+C0149514,acute tracheobronchitis,SY
+C0149514,Acute bronchitis (disorder),SY
+C0149514,Acute bronchitis NOS (disorder),SY
+C0149514,Acute chest infections,SY
+C0149514,Acute tracheobronchitis (disorder),SY
+C0149514,acute tracheobronchitis (diagnosis),SY
+C0149514,acute bronchitis (diagnosis),SY
+C0151786,Muscle Weakness,PT
+C0151786,WEAKNESS MUSCLE,SY
+C0151786,Weakness muscle,SY
+C0151786,Muscle weakness,SY
+C0151786,MUSCLE WEAKNESS,SY
+C0151786,muscle weakness,SY
+C0151786,muscle; weakness,SY
+C0151786,Muscle Weaknesses,SY
+C0151786,Weaknesses,SY
+C0151786,Muscle,SY
+C0151786,muscle weaknesses,SY
+C0151786,Muscle weakness NOS,SY
+C0151786,Weakness;muscle(s),SY
+C0151786,Weakness,SY
+C0151786,Decreased muscle strength,SY
+C0151786,decreased muscle strength,SY
+C0151786,Decrease in muscle strength,SY
+C0151786,Muscular Weakness,SY
+C0151786,MUSCULAR WEAKNESS,SY
+C0151786,muscular weakness,SY
+C0151786,Muscular weakness,SY
+C0151786,Muscular Weaknesses,SY
+C0151786,Muscular,SY
+C0151786,Muscle strength reduced,SY
+C0151786,Muscle weakness (finding),SY
+C0151786,muscle weakness (symptom),SY
+C0152029,Congestion of nasal sinus,PT
+C0152029,NASAL SINUS CONGESTION,SY
+C0152029,Nasal sinus congestion,SY
+C0152029,Sinus congestion,SY
+C0152029,Congestion;sinus,SY
+C0152029,SINUS CONGESTION,SY
+C0152029,sinus congestion,SY
+C0152029,Congestion of nasal sinus (disorder),SY
+C0152029,Sinus congestion (finding),SY
+C0152031,Joint swelling,PT
+C0152031,swelling joint,SY
+C0152031,Swelling,SY
+C0152031,JOINT SWELLING,SY
+C0152031,joint swelling,SY
+C0152031,Joint Swelling,SY
+C0152031,SWOLLEN JOINT,SY
+C0152031,SWOLLEN JOINTS,SY
+C0152031,Swollen joint,SY
+C0152031,joints swelling,SY
+C0152031,joints swollen,SY
+C0152031,swell joint,SY
+C0152031,swollen joint,SY
+C0152031,Swelling of Joint,SY
+C0152031,Swollen joints,SY
+C0152031,JOINT SWOLLEN,SY
+C0152031,Swollen;joint(s),SY
+C0152031,swollen joints,SY
+C0152031,Observation of joint swelling,SY
+C0152031,Swelling of joint with or without pain,SY
+C0152031,Finding of joint swelling (finding),SY
+C0152031,Joint swelling (finding),SY
+C0152031,Finding of joint swelling,SY
+C0155943,Arthralgia of temporomandibular joint,PT
+C0155943,arthralgia of temporomandibular joint,SY
+C0155943,Temporomandibular joint arthralgia,SY
+C0155943,Temporomandibular joint disorders,SY
+C0155943,Temporomandibular joint pain (finding),SY
+C0155943,Temporomandibular joint pain,SY
+C0155943,joint pain temporomandibular,SY
+C0155943,temporomandibular joint pain,SY
+C0155943,TEMPOROMANDIBULAR JOINT PAIN,SY
+C0155943,pain in temporomandibular joint,SY
+C0155943,Arthralgia of temporomandibular joint (disorder),SY
+C0155943,arthralgia of TMJ,SY
+C0155943,Arthralgia TMJ,SY
+C0155943,arthralgia of temporomandibular joint (diagnosis),SY
+C0155943,pain in temporomandibular joint (symptom),SY
+C0155943,TMJ pain,SY
+C0206750,Coronavirus Infections,PT
+C0206750,Coronavirus infections,SY
+C0206750,Coronavirus Infection,SY
+C0206750,Coronavirus,SY
+C0206750,Coronavirus infection,SY
+C0206750,coronavirus infection,SY
+C0206750,coronavirus,SY
+C0206750,unspc,SY
+C0206750,[X]Coronavirus infection,SY
+C0206750,Coronavirus infection (diagnosis),SY
+C0206750,Coronavirus infection (disorder),SY
+C0206750,unspecified (disorder),SY
+C0206750,infection; viral,SY
+C0206750,Corona virus infection,SY
+C0206750,corona infection virus,SY
+C0206750,corona infections virus,SY
+C0206750,CORONAVIRUS INFECT,SY
+C0206750,INFECT CORONAVIRUS,SY
+C0220854,Hyperpnea,PT
+C0220854,hyperpnea,SY
+C0220854,HYPERPNEA,SY
+C0220854,HYPERPNOEA,SY
+C0220854,Hyperpnoea,SY
+C0220854,hyperpnoea,SY
+C0220854,Hyperpneic,SY
+C0220854,Overbreathing,SY
+C0220854,overbreathing,SY
+C0220854,hyperpnea (physical finding),SY
+C0220854,Polypnea,SY
+C0220854,Polypnoea,SY
+C0220854,Hyperpnea (finding) [Ambiguous],SY
+C0220854,Hyperpnea (finding),SY
+C0221150,Swallowing painful,PT
+C0221150,Painful swallowing,SY
+C0221150,painful swallowing,SY
+C0221150,SWALLOWING PAINFUL,SY
+C0221150,painful swallow,SY
+C0221150,Odynophagia,SY
+C0221150,ODYNOPHAGIA,SY
+C0221150,odynophagia,SY
+C0221150,Pain on swallowing,SY
+C0221150,pain on swallowing,SY
+C0221150,PAIN WITH SWALLOWING,SY
+C0221150,pain swallowing,SY
+C0221150,pain swallow,SY
+C0221150,pain with swallowing,SY
+C0221150,pains swallowing,SY
+C0221150,pains swallow,SY
+C0221150,swallowing pain,SY
+C0221150,Pain;swallowing,SY
+C0221150,Swallowing painful (finding),SY
+C0221150,pain on swallowing (symptom),SY
+C0221198,Lesion,PT
+C0221198,lesion,SY
+C0221198,LESION,SY
+C0221198,Lesions,SY
+C0221198,lesions,SY
+C0221198,GROSS LESION,SY
+C0221198,Lesion -RETIRED-,SY
+C0221198,Lesion (morphologic abnormality),SY
+C0221198,Visible Lesion,SY
+C0221512,Stomach ache,PT
+C0221512,ACHE STOMACH,SY
+C0221512,Ache stomach,SY
+C0221512,Ache;stomach,SY
+C0221512,STOMACH ACHE,SY
+C0221512,Stomach Ache,SY
+C0221512,stomach ache,SY
+C0221512,Belly ache,SY
+C0221512,BELLY ACHE,SY
+C0221512,Pain gastric,SY
+C0221512,GASTRIC PAIN,SY
+C0221512,Gastric Pain,SY
+C0221512,Gastric pain,SY
+C0221512,gastric pain,SY
+C0221512,PAIN GASTRIC,SY
+C0221512,gastric pains,SY
+C0221512,Pain;gastric,SY
+C0221512,PAIN STOMACH,SY
+C0221512,Pain stomach,SY
+C0221512,Pain;stomach,SY
+C0221512,pain; stomach,SY
+C0221512,STOMACH PAIN,SY
+C0221512,Stomach Pain,SY
+C0221512,stomach; pain,SY
+C0221512,stomach pain,SY
+C0221512,Stomach pain/ache,SY
+C0221512,Tummy ache,SY
+C0221512,Sore tummy,SY
+C0221512,stomach pain (diagnosis),SY
+C0221512,Stomachache,SY
+C0221512,Stomachaches,SY
+C0221512,Stomach ache (finding),SY
+C0221512,Gastralgia,SY
+C0221512,gastralgia,SY
+C0221512,gastrodynia,SY
+C0231218,Malaise,PT
+C0231218,MALAISE,SY
+C0231218,malaise,SY
+C0231218,Malaise NOS,SY
+C0231218,Ill,SY
+C0231218,ill,SY
+C0231218,Discomfort bodily,SY
+C0231218,DISCOMFORT BODILY,SY
+C0231218,Vague bodily discomfort,SY
+C0231218,Feeling ill,SY
+C0231218,ILL FEELING,SY
+C0231218,ill feeling,SY
+C0231218,feeling ill,SY
+C0231218,FEELING BAD,SY
+C0231218,feel bad,SY
+C0231218,feel ill,SY
+C0231218,feeling bad,SY
+C0231218,Feeling;ill,SY
+C0231218,Feels unwell,SY
+C0231218,FEELING UNWELL,SY
+C0231218,Feeling unwell,SY
+C0231218,Feeling;unwell,SY
+C0231218,feeling unwell,SY
+C0231218,Vague ill health,SY
+C0231218,Feels off-color,SY
+C0231218,Feels off-colour,SY
+C0231218,[D]Malaise,SY
+C0231218,Does not feel right,SY
+C0231218,Not feeling great,SY
+C0231218,Feels poorly,SY
+C0231218,feeling poorly,SY
+C0231218,Generally unwell,SY
+C0231218,Ill-defined experience,SY
+C0231218,Ill defined experience,SY
+C0231218,Not feeling well,SY
+C0231218,not feeling well,SY
+C0231218,General feeling of illness,SY
+C0231218,general feeling of illness,SY
+C0231218,feeling ill (symptom),SY
+C0231218,Feels awful,SY
+C0231218,Felt generally ill,SY
+C0231218,Generally off-color,SY
+C0231218,Generally off-colour,SY
+C0231218,Feeling lifeless,SY
+C0231218,feeling lifeless,SY
+C0231218,Feeling miserable,SY
+C0231218,General malaise,SY
+C0231218,general malaise,SY
+C0231218,MALAISE GENERALIZED,SY
+C0231218,Malaise (finding) [Ambiguous],SY
+C0231218,Generally unwell [Ambiguous],SY
+C0231218,Undifferentiated illness: Vague ill health (finding),SY
+C0231218,Undifferentiated illness: Vague ill health,SY
+C0231218,[D]Malaise (context-dependent category),SY
+C0231218,Feels unwell (finding),SY
+C0231218,Generally unwell (finding),SY
+C0231218,Malaise (finding),SY
+C0231218,Malaise - symptom,SY
+C0231218,[D]Malaise (situation),SY
+C0231218,feeling poorly (malaise),SY
+C0231218,feeling tired or poorly,SY
+C0231218,malaise (diagnosis),SY
+C0231218,feeling poorly (symptom),SY
+C0231218,feeling tired or poorly (symptom),SY
+C0231218,Vague bodily discomfort (finding),SY
+C0231528,Myalgia,PT
+C0231528,MYALGIA,SY
+C0231528,myalgia,SY
+C0231528,MYALGIAS,SY
+C0231528,Myalgia NOS,SY
+C0231528,Myalgias,SY
+C0231528,myalgias,SY
+C0231528,Aching muscles,SY
+C0231528,MUSCLE ACHE,SY
+C0231528,Muscle ache,SY
+C0231528,ache muscles,SY
+C0231528,ache muscle,SY
+C0231528,aches muscles,SY
+C0231528,aches muscle,SY
+C0231528,muscle ache,SY
+C0231528,muscle aches,SY
+C0231528,Muscle aches,SY
+C0231528,Muscle discomfort,SY
+C0231528,MUSCLE DISCOMFORT,SY
+C0231528,muscle discomfort,SY
+C0231528,generalized myalgia,SY
+C0231528,GENERALIZED MYALGIA,SY
+C0231528,Muscle Pain,SY
+C0231528,PAIN MUSCLE,SY
+C0231528,pain muscle,SY
+C0231528,Pain muscle,SY
+C0231528,pain; muscle,SY
+C0231528,MUSCLE PAIN,SY
+C0231528,Muscle pain,SY
+C0231528,muscle; pain,SY
+C0231528,muscle pain,SY
+C0231528,muscle pains,SY
+C0231528,muscles pains,SY
+C0231528,muscles pain,SY
+C0231528,pain muscles,SY
+C0231528,pains muscle,SY
+C0231528,Pain;muscle(s),SY
+C0231528,Muscle pains,SY
+C0231528,Muscular pains,SY
+C0231528,muscular pains,SY
+C0231528,MUSCULAR PAIN,SY
+C0231528,muscular pain,SY
+C0231528,pain muscular,SY
+C0231528,Muscular pain,SY
+C0231528,Myalgic,SY
+C0231528,myalgic,SY
+C0231528,Muscle Soreness,SY
+C0231528,MUSCLE SORENESS,SY
+C0231528,Muscle soreness,SY
+C0231528,muscle soreness,SY
+C0231528,Soreness,SY
+C0231528,Muscle pain/fibrositis,SY
+C0231528,Myalgia unspecified,SY
+C0231528,Myodynia,SY
+C0231528,myodynia,SY
+C0231528,Myoneuralgia,SY
+C0231528,Myosalgia,SY
+C0231528,Muscle Sorenesses,SY
+C0231528,Generalized muscle aches,SY
+C0231528,generalized muscle aches,SY
+C0231528,Generalised muscle aches,SY
+C0231528,PAIN GENERALIZED MUSCLE,SY
+C0231528,MUSCLE PAIN GENERALIZED,SY
+C0231528,Myalgia (diagnosis),SY
+C0231528,myalgia and myositis myalgia,SY
+C0231528,Muscle pain (finding),SY
+C0231528,Myalgia unspecified (finding),SY
+C0231528,muscle aches (symptom),SY
+C0231528,generalized (myalgias),SY
+C0231528,generalized muscle aches (symptom),SY
+C0231832,Respiratory rate,PT
+C0231832,Rate,SY
+C0231832,Respiratory,SY
+C0231832,respiratory rate,SY
+C0231832,Respiratory Rate,SY
+C0231832,RESPIRATORY RATES,SY
+C0231832,Respiratory Rates,SY
+C0231832,Rates,SY
+C0231832,respiratory rates,SY
+C0231832,RESPIRATORY RATES AND RHYTHMS,SY
+C0231832,Breathing rate,SY
+C0231832,breathing rate,SY
+C0231832,Breathing Rate,SY
+C0231832,breathing rates,SY
+C0231832,RR - Respiratory rate,SY
+C0231832,Respiration Rate,SY
+C0231832,Respiration rate,SY
+C0231832,respiration rate,SY
+C0231832,Respiration,SY
+C0231832,Respiration Rates,SY
+C0231832,rate of respiration,SY
+C0231832,rates respiration,SY
+C0231832,Rate of respiration,SY
+C0231832,BR - Breathing rate,SY
+C0231832,Respiratory frequency,SY
+C0231832,respiratory frequency,SY
+C0231832,21 RESPIRATORY RATES AND RHYTHMS,SY
+C0231832,210 RESPIRATORY RATES,SY
+C0231832,RESPRATE,SY
+C0231832,Rate of respiration (observable entity),SY
+C0231832,Respiratory rate (observable entity),SY
+C0231832,Breath rate,SY
+C0231832,breath rate,SY
+C0231832,RESP,SY
+C0231832,respiration rate (physical finding),SY
+C0231832,RR,SY
+C0231835,Tachypnea,PT
+C0231835,TACHYPNEA,SY
+C0231835,tachypnea,SY
+C0231835,TACHYPNOEA,SY
+C0231835,Tachypnoea,SY
+C0231835,Tachypnea NOS,SY
+C0231835,Tachypneas,SY
+C0231835,tachypnoea,SY
+C0231835,Rapid breathing,SY
+C0231835,RAPID BREATHING,SY
+C0231835,rapid breathing,SY
+C0231835,Increased respiratory rate,SY
+C0231835,RESPIRATORY RATE INCREASED,SY
+C0231835,Respiratory rate increased,SY
+C0231835,Increased,SY
+C0231835,increased respiratory rate,SY
+C0231835,Increased Respiratory Rate,SY
+C0231835,Increase in respiratory rate,SY
+C0231835,Tachypneic,SY
+C0231835,tachypneic,SY
+C0231835,Tachypnoeic,SY
+C0231835,[D]Tachypnoea,SY
+C0231835,[D]Tachypnea,SY
+C0231835,Rapid respiration,SY
+C0231835,respiration; rapid,SY
+C0231835,rapid respirations,SY
+C0231835,Rapid respirations,SY
+C0231835,Respiration rate increased,SY
+C0231835,RESPIRATION RATE INCREASED,SY
+C0231835,Rate Of Respiration,SY
+C0231835,Increased respiratory rate or depth of breathing,SY
+C0231835,Fast Breathing,SY
+C0231835,Breathing rate increased,SY
+C0231835,Respiratory rate high,SY
+C0231835,[D]Tachypnea (context-dependent category),SY
+C0231835,Tachypnea (finding),SY
+C0231835,[D]Tachypnea (situation),SY
+C0231835,[D]Tachypnoea (situation),SY
+C0231835,rapid breathing (symptom),SY
+C0231835,tachypnea (physical finding),SY
+C0232462,Decrease in appetite,PT
+C0232462,decrease in appetite,SY
+C0232462,APPETITE DECREASE,SY
+C0232462,APPETITE DECREASED,SY
+C0232462,appetite decreased,SY
+C0232462,appetite decrease,SY
+C0232462,appetite decreasing,SY
+C0232462,appetites decrease,SY
+C0232462,decrease appetite,SY
+C0232462,decreased appetite,SY
+C0232462,Appetite decreased NOS,SY
+C0232462,Decreased;appetite,SY
+C0232462,Decreased appetite,SY
+C0232462,Decreased food appetite,SY
+C0232462,Food appetite,SY
+C0232462,decreased,SY
+C0232462,Poor appetite,SY
+C0232462,appetite poor,SY
+C0232462,POOR APPETITE,SY
+C0232462,poor appetite,SY
+C0232462,Poor;appetite,SY
+C0232462,Reduced appetite,SY
+C0232462,reduced appetite,SY
+C0232462,appetite reducing,SY
+C0232462,Inappetence,SY
+C0232462,Decrease in appetite (finding),SY
+C0232462,Hyporexia,SY
+C0232462,decreased appetite (symptom),SY
+C0232487,Abdominal discomfort,PT
+C0232487,DISCOMFORT ABDOMINAL,SY
+C0232487,Discomfort abdominal,SY
+C0232487,Discomfort;abdominal,SY
+C0232487,ABDOMINAL DISCOMFORT,SY
+C0232487,abdominal discomfort,SY
+C0232487,Abdo. discomfort,SY
+C0232487,abdomen discomfort,SY
+C0232487,ABDOMEN DISCOMFORT,SY
+C0232487,Abdominal discomfort (finding),SY
+C0234238,Ache,PT
+C0234238,ACHE,SY
+C0234238,ache,SY
+C0234238,Ached,SY
+C0234238,Aches,SY
+C0234238,Aching,SY
+C0234238,aches,SY
+C0234238,aching,SY
+C0234238,Ache NOS,SY
+C0234238,Aching pain,SY
+C0234238,pain aching,SY
+C0234238,aching pain,SY
+C0234238,pain aching (symptom),SY
+C0234238,ACH,SY
+C0234238,achs,SY
+C0234238,Aching pain (finding),SY
+C0234238,Aching sensation quality (qualifier value),SY
+C0234238,Aching sensation quality,SY
+C0234238,ach pain,SY
+C0234428,Disturbance of consciousness,PT
+C0234428,CONSCIOUSNESS DISTURBANCE,SY
+C0234428,Consciousness Disturbances,SY
+C0234428,Consciousness disturbance NOS,SY
+C0234428,consciousness disturbance,SY
+C0234428,Disturbances of consciousness,SY
+C0234428,Alteration of consciousness,SY
+C0234428,alteration of consciousness,SY
+C0234428,Impaired consciousness,SY
+C0234428,impaired consciousness,SY
+C0234428,Altered consciousness,SY
+C0234428,altered consciousness,SY
+C0234428,Lowered consciousness,SY
+C0234428,Reduced consciousness/confusion,SY
+C0234428,Consciousness abnormal,SY
+C0234428,Disturbance of consciousness (finding),SY
+C0234428,Consciousness disturbance NOS (finding),SY
+C0235299,Right upper quadrant pain,PT
+C0235299,PAIN RIGHT UPPER QUADRANT,SY
+C0235299,pain quadrant right upper,SY
+C0235299,pain right upper quadrant,SY
+C0235299,pain upper right quadrant,SY
+C0235299,upper right quadrant pain,SY
+C0235299,Pain right upper quadrant,SY
+C0235299,Pain;right upper quadrant,SY
+C0235299,RIGHT UPPER QUADRANT PAIN,SY
+C0235299,right upper quadrant pain,SY
+C0235299,right upper quaDrant pain,SY
+C0235299,right upper quadrant abdominal pain,SY
+C0235299,RIGHT UPPER QUADRANT,SY
+C0235299,right upper quadrant,SY
+C0235299,abdominal pain right upper quadrant,SY
+C0235299,RUQ abdominal pain,SY
+C0235299,RUQ ABDOMINAL PAIN,SY
+C0235299,ruq abdominal pain,SY
+C0235299,Pain right upper quandrant,SY
+C0235299,right upper quandrant pain,SY
+C0235299,PAIN RIGHT UPPER QUANDRANT,SY
+C0235299,[D] Right upper quadrant pain,SY
+C0235299,RUQ pain,SY
+C0235299,ruq pain,SY
+C0235299,Hypochondrium pain right,SY
+C0235299,ABDOMEN RUQ PAIN,SY
+C0235299,[D] Right upper quadrant pain (context-dependent category),SY
+C0235299,Right upper quadrant pain (finding),SY
+C0235299,[D] Right upper quadrant pain (situation),SY
+C0235299,Abdmnal pain rt upr quad,SY
+C0235299,right upper quadrant abdominal pain (symptom),SY
+C0235299,abdominal pain in the right upper belly (RUQ),SY
+C0238990,Acute lower respiratory tract infection,PT
+C0238990,infection; respiratory tract,SY
+C0238990,lower,SY
+C0238990,lower (acute),SY
+C0238990,respiratory tract; infection,SY
+C0238990,acute lower respiratory tract infection,SY
+C0238990,Acute (lower) respiratory (tract) infection NOS,SY
+C0238990,chest infection,SY
+C0238990,chest infections,SY
+C0238990,infection chest,SY
+C0238990,Acute lower resp tr infection,SY
+C0238990,Unspecified acute lower respiratory infection,SY
+C0238990,acute lower respiratory tract infection (diagnosis),SY
+C0238990,acute lower respiratory infection,SY
+C0238990,lower respiratory tract,SY
+C0238990,Acute lower respiratory tract infection (disorder),SY
+C0239521,Facial rash,PT
+C0239521,FACIAL RASH,SY
+C0239521,facial rash,SY
+C0239521,Eruption facial,SY
+C0239521,Rash on face,SY
+C0239521,rash on face,SY
+C0239521,face rash,SY
+C0239521,Rash face,SY
+C0241144,Petechiae of skin,PT
+C0241144,SKIN PETECHIA,SY
+C0241144,Skin Petechiae,SY
+C0241144,Skin petechiae,SY
+C0241144,petechial hemorrhages,SY
+C0241144,petechial hemorrhage,SY
+C0241144,Petechiae,SY
+C0241144,petechiae,SY
+C0241144,PETECHIA,SY
+C0241144,petechia,SY
+C0241144,Petechial rash,SY
+C0241144,RASH PETECHIAL,SY
+C0241144,PETECHIAL RASH,SY
+C0241144,petechial rash,SY
+C0241144,Petechial eruption,SY
+C0241144,Petechiae of skin (disorder),SY
+C0241144,petechial hemorrhages (___cm),SY
+C0241144,petechial hemorrhages (physical finding),SY
+C0241144,petechiae (diagnosis),SY
+C0242073,Pulmonary congestion,PT
+C0242073,CONGESTION PULMONARY,SY
+C0242073,congestion pulmonary,SY
+C0242073,Congestion pulmonary,SY
+C0242073,congestion; pulmonary,SY
+C0242073,PULMONARY CONGESTION,SY
+C0242073,pulmonary congestion,SY
+C0242073,Lung congestion,SY
+C0242073,congestion lung,SY
+C0242073,Congestion - lung,SY
+C0242073,congestion; lung,SY
+C0242073,lung congestion,SY
+C0242073,congestion lungs,SY
+C0242073,chest congestion,SY
+C0242073,Congestion;chest,SY
+C0242073,CHEST CONGESTION,SY
+C0242073,Chest congestion,SY
+C0242073,congestion chest,SY
+C0242073,Pulmonary congestion (disorder),SY
+C0242073,Congestive lung,SY
+C0242073,lung; congestive,SY
+C0242073,congestive; lung,SY
+C0242104,Sputum production,PT
+C0242104,production sputum,SY
+C0242104,SPUTUM PRODUCTION,SY
+C0242104,Sputum Production,SY
+C0242104,sputum production,SY
+C0242429,Sore Throat,PT
+C0242429,THROAT SORE,SY
+C0242429,Throat sore,SY
+C0242429,SORE THROAT,SY
+C0242429,Sore throat,SY
+C0242429,sore throat,SY
+C0242429,Sore Throats,SY
+C0242429,sore throats,SY
+C0242429,Sore throat NOS,SY
+C0242429,Throat,SY
+C0242429,Sore,SY
+C0242429,Pain in throat,SY
+C0242429,Throat pain,SY
+C0242429,PAIN THROAT,SY
+C0242429,Pain throat,SY
+C0242429,Pain;throat,SY
+C0242429,pain; throat,SY
+C0242429,throat pain,SY
+C0242429,Pharyngeal pain,SY
+C0242429,[D]Throat pain,SY
+C0242429,Pain in the pharynx,SY
+C0242429,PAIN PHARYNX,SY
+C0242429,Pain pharynx,SY
+C0242429,pain; pharynx,SY
+C0242429,pharynx; pain,SY
+C0242429,Sore throat symptom,SY
+C0242429,sore symptom throat,SY
+C0242429,sore throat; (symptom),SY
+C0242429,sore throat (symptom),SY
+C0242429,Sore throat symptom NOS,SY
+C0242429,sore symptoms throat,SY
+C0242429,[D]Throat discomfort,SY
+C0242429,Throat discomfort,SY
+C0242429,throat discomfort,SY
+C0242429,Throat soreness,SY
+C0242429,throat soreness,SY
+C0242429,Pharynx discomfort,SY
+C0242429,[D]Throat pain (context-dependent category),SY
+C0242429,Pharyngeal pain (finding),SY
+C0242429,Pain in throat (finding),SY
+C0242429,Sore throat symptom (finding),SY
+C0242429,Sore throat symptom NOS (finding),SY
+C0242429,Throat soreness (& symptom),SY
+C0242429,Faucitis,SY
+C0242429,faucitis,SY
+C0242429,throat pain (symptom),SY
+C0242429,pain; throat (symptom),SY
+C0242429,[D]Throat pain (situation),SY
+C0242429,SORETHROAT,SY
+C0242429,sore throat (diagnosis),SY
+C0242429,Sore throat (finding),SY
+C0242429,Throat soreness (& symptom) (finding),SY
+C0242429,sore throat symptom (non-specific),SY
+C0264222,Acute upper respiratory infection,PT
+C0264222,acute upper respiratory infection,SY
+C0264222,Acute upper respiratory infections,SY
+C0264222,Acute upper respiratory infections of unspecified site,SY
+C0264222,Acute URI,SY
+C0264222,acute uri,SY
+C0264222,Acute uri NOS,SY
+C0264222,acute uri nos,SY
+C0264222,acute uris,SY
+C0264222,Acute URI NOS,SY
+C0264222,URTI-Acute upper resp infecti,SY
+C0264222,Acute upper resp infection,SY
+C0264222,URTI - Acute upper respiratory infection,SY
+C0264222,Acute upper respiratory infection (disorder),SY
+C0264222,upper respiratory tract,SY
+C0264222,Acute upper respiratory tract infection,SY
+C0264222,upper,SY
+C0264222,upper (acute),SY
+C0264222,acute upper respiratory infection (diagnosis),SY
+C0264222,Acute upper respiratory infections (J00-J06),SY
+C0264222,AURTI - Acute upper respiratory tract infection,SY
+C0264367,Acute bronchiolitis with bronchospasm,PT
+C0264367,acute bronchiolitis with bronchospasm,SY
+C0264367,Acute bronchiolitis+bron.spasm,SY
+C0264367,Acute bronchiolitis with bronchospasm (disorder),SY
+C0264367,bronchospasm; bronchiolitis,SY
+C0264367,bronchiolitis; bronchospasm,SY
+C0276353,"Influenza due to Influenza virus, type B",PT
+C0276353,Influenza caused by Influenza virus,SY
+C0276353,type B (disorder),SY
+C0276353,type B,SY
+C0276353,Influenza caused by Influenza B virus (disorder),SY
+C0276353,Influenza due to Influenza B virus,SY
+C0276353,Influenza caused by Influenza B virus,SY
+C0276353,Influenza due to Influenza virus,SY
+C0276353,influenza B (diagnosis),SY
+C0276353,influenza B,SY
+C0276353,influenza type B,SY
+C0281856,Generalized aches and pains,PT
+C0281856,Generalised aches and pains,SY
+C0281856,Generalized body aches,SY
+C0281856,generalized body aches,SY
+C0281856,Generalised body aches,SY
+C0281856,Generalized body pains,SY
+C0281856,body generalized pain,SY
+C0281856,Generalized pain,SY
+C0281856,generalized,SY
+C0281856,Pain generalized,SY
+C0281856,PAIN GENERALIZED,SY
+C0281856,Pain;generalized,SY
+C0281856,pain; generalized,SY
+C0281856,Generalized Pain,SY
+C0281856,generalized; pain,SY
+C0281856,generalized pain,SY
+C0281856,Generalized pain NOS,SY
+C0281856,Generalised pain,SY
+C0281856,generalised,SY
+C0281856,Pain;generalised,SY
+C0281856,generalised pain,SY
+C0281856,[D]General aches and pains,SY
+C0281856,General aches and pains,SY
+C0281856,general aches pains,SY
+C0281856,[D]Pain,SY
+C0281856,Generalized aching,SY
+C0281856,aches generalized,SY
+C0281856,generalised aching,SY
+C0281856,generalized ache,SY
+C0281856,Generalised aching,SY
+C0281856,Ache;generalised,SY
+C0281856,Ache;generalized,SY
+C0281856,generalised aches,SY
+C0281856,generalized aches,SY
+C0281856,ACHE DIFFUSE,SY
+C0281856,Pain general/multiple sites,SY
+C0281856,General body pain,SY
+C0281856,body general pain,SY
+C0281856,Generalized aches and pains (finding),SY
+C0281856,Generalised aches and pains (finding),SY
+C0281856,generalized (context-dependent category),SY
+C0281856,generalized (situation),SY
+C0281856,generalised (situation),SY
+C0281856,generalized pain (symptom),SY
+C0302295,Eruptions,PT
+C0302295,ERUPTIONS,SY
+C0302295,eruptions,SY
+C0302295,eruption,SY
+C0302295,017-018 ERUPTIONS,SY
+C0302295,Eruption (morphologic abnormality),SY
+C0311394,Difficulty walking,PT
+C0311394,WALKING DIFFICULTY,SY
+C0311394,walking difficulty,SY
+C0311394,Walking difficulty,SY
+C0311394,Walking,SY
+C0311394,Difficulty,SY
+C0311394,walking; difficulty,SY
+C0311394,DIFFICULTY WALKING,SY
+C0311394,difficulty walking,SY
+C0311394,Difficulty Walking,SY
+C0311394,Difficulty in walking,SY
+C0311394,Difficulty in walking NOS,SY
+C0311394,difficulties walking,SY
+C0311394,difficulties walk,SY
+C0311394,Difficulty;walking,SY
+C0311394,Walking difficulties,SY
+C0311394,difficulty in walking,SY
+C0311394,Gait difficulty,SY
+C0311394,difficulties gait,SY
+C0311394,Walking disability,SY
+C0311394,Impaired walking,SY
+C0311394,Impaired Walking,SY
+C0311394,Walking Problems,SY
+C0311394,problems walking,SY
+C0311394,Problem;walking,SY
+C0311394,problem with walking,SY
+C0311394,Difficulty walking (finding) [Ambiguous],SY
+C0311394,Difficulty walking (finding),SY
+C0311394,Difficulty in walking NOS (finding),SY
+C0311394,Difficulty in walking (finding),SY
+C0311394,Walking disability (finding),SY
+C0311394,difficult; walking,SY
+C0311394,Ambulation Difficulty,SY
+C0311394,Difficulties,SY
+C0311394,Ambulation,SY
+C0311394,Ambulation Difficulties,SY
+C0311394,Difficulty Ambulation,SY
+C0311394,Ambulatory Difficulty,SY
+C0311394,Ambulatory Difficulties,SY
+C0311394,Ambulatory,SY
+C0311394,difficulty walking (symptom),SY
+C0311394,difficulty in walking (diagnosis),SY
+C0339951,"Pneumonia, organism unspecified",PT
+C0339951,Pneumonia; organism unspecified,SY
+C0339951,unspecified organism,SY
+C0339951,Pneumonia due to unspecified organism,SY
+C0339951,organism unspecif.,SY
+C0339951,pneumonia organism nos,SY
+C0339951,organism NOS,SY
+C0339951,PNEUMONIA ORGANISM NOS,SY
+C0339951,organism pneumonia,SY
+C0339951,organisms pneumonia,SY
+C0339951,pneumonia organism,SY
+C0339951,Pneumonia due to unspecified organism (disorder),SY
+C0348713,Other specified respiratory disorders,PT
+C0348713,Respiratory system dis.OS,SY
+C0348713,Other specified diseases of respiratory system,SY
+C0348713,Other specfd resp disorders,SY
+C0348713,[X]Other specfd resp disorders,SY
+C0348713,[X]Other specified respiratory disorders,SY
+C0348713,Other specified diseases of respiratory system (disorder),SY
+C0348713,[X]Other specified respiratory disorders (disorder),SY
+C0370205,Specimen Type - Sputum - coughed,PT
+C0370205,coughed sputum,SY
+C0370205,Sputum - coughed,SY
+C0370205,cough sputum,SY
+C0370205,sputum cough,SY
+C0392171,Influenza-like symptoms,PT
+C0392171,INFLUENZA-LIKE SYMPTOMS,SY
+C0392171,influenza like symptoms,SY
+C0392171,Flu-like symptoms,SY
+C0392171,FLU-LIKE SYMPTOMS,SY
+C0392171,Flu-Like Symptoms,SY
+C0392171,flu like symptoms,SY
+C0392171,flu-like symptoms,SY
+C0392171,FLU LIKE SYMPTOMS,SY
+C0392171,Flu like symptoms,SY
+C0392171,Influenza-Like Illness,SY
+C0392171,flu-like symptoms (symptom),SY
+C0392171,Influenza-like symptoms (finding),SY
+C0392674,Exhaustion,PT
+C0392674,EXHAUSTION,SY
+C0392674,exhaustion,SY
+C0392674,Exhausted,SY
+C0392674,exhausted,SY
+C0392674,Washed out,SY
+C0392674,Washed-out,SY
+C0392674,Worn out,SY
+C0392674,worn out,SY
+C0392674,Exhaustion (finding),SY
+C0423665,Hand joint pain,PT
+C0423665,Joint pain-hand,SY
+C0423665,hand; pain,SY
+C0423665,joint,SY
+C0423665,hand joint pain,SY
+C0423665,hand; joint pain,SY
+C0423665,hand joints pain,SY
+C0423665,hands joint pain,SY
+C0423665,hands joints pain,SY
+C0423665,hand,SY
+C0423665,Pain in joints of hand NOS,SY
+C0423665,Pain in joints of hand,SY
+C0423665,Pain in joint involving hand,SY
+C0423665,Arthralgia of the hand,SY
+C0423665,arthralgia - hand,SY
+C0423665,Arthralgia of hand,SY
+C0423665,Arthralgia of hand (diagnosis),SY
+C0423665,Hand joint pain (finding),SY
+C0424424,Refusing food,PT
+C0424424,Will not eat,SY
+C0424424,will not eat,SY
+C0424424,Refuses to eat,SY
+C0424424,refuse eat,SY
+C0424424,refuse to eat,SY
+C0424424,Refusing to feed,SY
+C0424424,Food refusal,SY
+C0424424,refusal; food,SY
+C0424424,food refusal,SY
+C0424424,food; refusal of,SY
+C0424424,Patient refuses to eat,SY
+C0424424,Refusal of food by patient,SY
+C0424424,Refusing food (finding),SY
+C0424790,Rigor - Temperature-associated observation,PT
+C0424790,AGUE,SY
+C0424790,CHILL SHAKING,SY
+C0424790,SHAKING CHILLS,SY
+C0424790,Rigor,SY
+C0424790,RIGOR,SY
+C0424790,rigor,SY
+C0424790,RIGORS,SY
+C0424790,Rigors,SY
+C0424790,Rigor(s),SY
+C0424790,Rigouring,SY
+C0424790,Rigours,SY
+C0424790,Rigoring,SY
+C0424790,rigors,SY
+C0424790,Sudden chill (rigor),SY
+C0424790,Rigor - symptom,SY
+C0424790,rigors symptoms,SY
+C0424790,rigors (symptom),SY
+C0424790,Having rigors,SY
+C0424790,Having rigors (finding),SY
+C0424790,Rigor (finding),SY
+C0424790,Rigor - symptom (finding),SY
+C0424790,Rigors: [having] or [symptom],SY
+C0424790,reported whole body shaking chills,SY
+C0424790,Rigors: [having] or [symptom] (finding),SY
+C0424790,rigor was observed,SY
+C0424790,shaking chill (physical finding),SY
+C0425449,Gasping for breath,PT
+C0425449,gasping for breath,SY
+C0425449,breath gasping,SY
+C0425449,breath gasps,SY
+C0425449,breath gasp,SY
+C0425449,gasping breath,SY
+C0425449,Gasping breaths,SY
+C0425449,Gasping,SY
+C0425449,GASPING,SY
+C0425449,gasping,SY
+C0425449,Gasp,SY
+C0425449,gasps,SY
+C0425449,gasp,SY
+C0425449,Gasping respiration,SY
+C0425449,Gasping for Air,SY
+C0425449,Gasping for breath (finding),SY
+C0425449,breathing gasping,SY
+C0425488,Rapid shallow breathing,PT
+C0425488,rapid shallow breathing,SY
+C0425488,Panting,SY
+C0425488,panting,SY
+C0425488,pant,SY
+C0425488,Panting respiration,SY
+C0425488,Excessive panting,SY
+C0425488,Rapid shallow breathing (finding),SY
+C0425488,Panting respiration (finding),SY
+C0425504,Productive cough -green sputum,PT
+C0425504,Productive cough -green sputum (finding),SY
+C0425505,Productive cough -clear sputum,PT
+C0425505,Productive cough -clear sputum (finding),SY
+C0425505,coughing up clear sputum (symptom),SY
+C0425505,coughing up clear sputum,SY
+C0425506,Productive cough-yellow sputum,PT
+C0425506,Productive cough-yellow sputum (finding),SY
+C0425518,No sputum,PT
+C0425518,No sputum (finding),SY
+C0439055,"Complaining of ""tired all the time""",PT
+C0439055,"C/O - ""tired all the time""",SY
+C0439055,Tired all the time (& [C/O -]),SY
+C0439055,TATT - Tired all the time,SY
+C0439055,"""TATT"" - tired all the time",SY
+C0439055,Tired all the time,SY
+C0439055,TATT,SY
+C0439055,"C/O - ""tired all the time"" (context-dependent category)",SY
+C0439055,Tired all the time (finding),SY
+C0439055,"Complaining of ""tired all the time"" (finding)",SY
+C0476273,Respiratory distress,PT
+C0476273,DISTRESS RESPIRATORY,SY
+C0476273,Distress,SY
+C0476273,Distress respiratory,SY
+C0476273,RESPIRATORY DISTRESS,SY
+C0476273,Respiratory Distress,SY
+C0476273,respiratory distress,SY
+C0476273,distressed respiratory,SY
+C0476273,Distressed breathing,SY
+C0476273,distressed breathing,SY
+C0476273,[D]Respiratory distress,SY
+C0476273,[D]Respiratory distress (context-dependent category),SY
+C0476273,Respiratory distress (finding),SY
+C0476273,[D]Respiratory distress (situation),SY
+C0476273,Distressed respiration,SY
+C0476273,distressed respirations,SY
+C0476273,distressed respirations (diagnosis),SY
+C0494691,"Respiratory failure, not elsewhere classified",PT
+C0497156,Lymphadenopathy,PT
+C0497156,LYMPHADENOPATHY,SY
+C0497156,lymphadenopathy,SY
+C0497156,Lymphadenopathies,SY
+C0497156,Lymphadenopathy NOS,SY
+C0497156,lymphadenopathies,SY
+C0497156,Adenopathy,SY
+C0497156,ADENOPATHY,SY
+C0497156,adenopathy,SY
+C0497156,Adenopathies,SY
+C0497156,Enlargement of lymph nodes,SY
+C0497156,Enlargement of lymph node,SY
+C0497156,lymph node enlargement,SY
+C0497156,Lymph node enlarged,SY
+C0497156,Enlarged lymph nodes,SY
+C0497156,Swollen Gland,SY
+C0497156,Swollen glands,SY
+C0497156,Glands,SY
+C0497156,Swollen,SY
+C0497156,Swollen Glands,SY
+C0497156,Swelling of lymph nodes,SY
+C0497156,Swollen lymph nodes,SY
+C0497156,Swelling of lymph node,SY
+C0497156,[D]Lymphadenopathy,SY
+C0497156,Enlarged glands,SY
+C0497156,Swollen lymph glands,SY
+C0497156,Lymphadenopathy - swelling,SY
+C0497156,LA - Lymphadenopathy,SY
+C0497156,LN - Lymphadenopathy,SY
+C0497156,Lymphadenomegaly,SY
+C0497156,[D]Lymphadenopathy (context-dependent category),SY
+C0497156,Lymphadenopathy (disorder),SY
+C0497156,Unspecified lymphadenopathy,SY
+C0497156,Lymph node hyperplasia,SY
+C0497156,[D]Lymphadenopathy (situation),SY
+C0497156,lymphadenopathy (diagnosis),SY
+C0497156,Lymphadenopathy (finding),SY
+C0520963,Diffuse pain,PT
+C0520963,PAIN DIFFUSE,SY
+C0520963,diffuse pain,SY
+C0520963,Diffuse pain (finding),SY
+C0558168,Able to cough up sputum,PT
+C0558168,Sputum loose,SY
+C0558168,Able to cough up sputum (finding),SY
+C0587246,Muscle weakness of limb,PT
+C0587246,Limb muscle weakness,SY
+C0587246,Limb weakness,SY
+C0587246,limb weakness,SY
+C0587246,limbs weakness,SY
+C0587246,Weakness of limb,SY
+C0587246,Weakness of limbs,SY
+C0587246,Muscle weakness of limb (finding),SY
+C0587246,Weakness in extremity,SY
+C0587246,extremities weakness,SY
+C0587246,extremity weakness,SY
+C0587246,EXTREMITY WEAKNESS,SY
+C0587246,Weakness of limb (finding),SY
+C0587246,Loss of power in limb,SY
+C0587246,Limb paresis,SY
+C0587246,limb paresis,SY
+C0587246,limb weakness (paresis),SY
+C0587246,limb weakness (symptom),SY
+C0686728,Generalized acute body pains,PT
+C0686728,Generalised acute body pains,SY
+C0686728,Generalized acute body aches,SY
+C0686728,Generalised acute body aches,SY
+C0686728,Generalized acute body pains (finding),SY
+C0686729,Generalized chronic body pains,PT
+C0686729,Generalised chronic body pains,SY
+C0686729,Generalized chronic body aches,SY
+C0686729,Generalised chronic body aches,SY
+C0686729,Generalized chronic body pains (finding),SY
+C0700148,Congestion,PT
+C0700148,congestion,SY
+C0700148,CONGESTION,SY
+C0700148,Congestions,SY
+C0700148,CONGESTIONS,SY
+C0700148,361 CONGESTIONS,SY
+C0700148,Congestion (morphologic abnormality),SY
+C0741585,BODY ACHE,PT
+C0741585,body ache,SY
+C0741585,body pain,SY
+C0741585,Pain;body,SY
+C0741585,BODY PAIN,SY
+C0741585,body pains,SY
+C0742857,Acute onset cough,PT
+C0742857,Acute onset cough (finding),SY
+C0742857,Acute cough,SY
+C0742857,COUGH ACUTE,SY
+C0745873,LOWER EXTREMITY PAIN CHRONIC,PT
+C0747719,PO INTAKE POOR,PT
+C0748155,PULMONARY INFILTRATE PATCHY,PT
+C0812387,Feels cold,PT
+C0812387,cold feels,SY
+C0812387,feels cold,SY
+C0812387,cold feelings,SY
+C0812387,cold feel,SY
+C0812387,feel cold,SY
+C0812387,Coldness,SY
+C0812387,coldness,SY
+C0812387,Cold to touch,SY
+C0812387,cold to touch,SY
+C0812387,cold touch,SY
+C0812387,Chilliness,SY
+C0812387,CHILLINESS,SY
+C0812387,Coldness general,SY
+C0812387,COLDNESS GENERAL,SY
+C0812387,Feels cold (finding),SY
+C0849970,Feeling tired,PT
+C0849970,tired feeling,SY
+C0849970,feeling tired,SY
+C0849970,feel tired,SY
+C0849970,feeling tire,SY
+C0849970,Feeling;tired,SY
+C0849970,tired,SY
+C0849970,TIRED,SY
+C0849970,Feeling tired (finding),SY
+C0849970,Tired (finding),SY
+C0849970,feeling tired (fatigue),SY
+C0849970,feeling tired (symptom),SY
+C0849970,feeling fatigued,SY
+C0850149,Dry cough,PT
+C0850149,DRY,SY
+C0850149,cough dry,SY
+C0850149,COUGH DRY,SY
+C0850149,dry cough,SY
+C0850149,coughing dry,SY
+C0850149,coughs dry,SY
+C0850149,Dry coughing,SY
+C0850149,Unproductive cough,SY
+C0850149,cough unproductive,SY
+C0850149,unproductive cough,SY
+C0850149,Non-productive cough,SY
+C0850149,cough non productive,SY
+C0850149,Cough;non-productive,SY
+C0850149,non productive cough,SY
+C0850149,non-productive cough,SY
+C0850149,coughs non productive,SY
+C0850149,Dry cough (finding),SY
+C0850149,Non-productive cough (finding),SY
+C0850149,Nonproductive cough,SY
+C0850149,nonproductive,SY
+C0850149,cough nonproductive,SY
+C0850149,COUGH NONPRODUCTIVE,SY
+C0850149,Cough nonproductive,SY
+C0850149,nonproductive cough,SY
+C0850149,dry cough (symptom),SY
+C0869210,"Viral pneumonia, not elsewhere classified",PT
+C0877173,Food aversion,PT
+C0877173,aversion food,SY
+C0877173,food aversion,SY
+C0877173,aversions food,SY
+C1260880,Rhinorrhea,PT
+C1260880,RHINORRHEA,SY
+C1260880,rhinorrhea,SY
+C1260880,RHINORRHOEA,SY
+C1260880,Rhinorrhoea,SY
+C1260880,rhinorrhoea,SY
+C1260880,Runny Nose,SY
+C1260880,nose runny,SY
+C1260880,RUNNY NOSE,SY
+C1260880,Runny nose,SY
+C1260880,Runny;nose,SY
+C1260880,runny nose,SY
+C1260880,Nasal discharge,SY
+C1260880,discharge nasal,SY
+C1260880,Discharge;nasal,SY
+C1260880,NASAL DISCHARGE,SY
+C1260880,Nasal Discharge,SY
+C1260880,nasal discharge,SY
+C1260880,Increased nasal secretion,SY
+C1260880,Nasal catarrh,SY
+C1260880,catarrh; nasal,SY
+C1260880,nasal catarrh,SY
+C1260880,nasal; catarrh,SY
+C1260880,Discharge from nose,SY
+C1260880,discharge from nose,SY
+C1260880,Snuffles,SY
+C1260880,snuffles,SY
+C1260880,Snuffling,SY
+C1260880,Nasal discharge present,SY
+C1260880,Nasal discharge (& present),SY
+C1260880,Excessive noise from nasal passage,SY
+C1260880,discharge nose,SY
+C1260880,NOSE DISCHARGE,SY
+C1260880,nose discharge,SY
+C1260880,Nose running,SY
+C1260880,running nose,SY
+C1260880,nose running,SY
+C1260880,nose runs,SY
+C1260880,nose run,SY
+C1260880,Nose run,SY
+C1260880,Nose dripping,SY
+C1260880,dripping nose,SY
+C1260880,drips nose,SY
+C1260880,nose drip,SY
+C1260880,drip nasal,SY
+C1260880,NASAL DRIP,SY
+C1260880,dripping nasal,SY
+C1260880,drips nasal,SY
+C1260880,nasal drip,SY
+C1260880,Nasal discharge present (context-dependent category),SY
+C1260880,Nasal discharge (disorder),SY
+C1260880,Nasal discharge present (finding),SY
+C1260880,Nasal discharge (& present) (finding),SY
+C1260880,Rhinorrhea (finding),SY
+C1260880,Snuffles (finding),SY
+C1260880,Snuffling (finding),SY
+C1260880,nasopharyngeal; catarrh,SY
+C1260880,catarrh; nasopharyngeal,SY
+C1260880,Nasal discharge present (situation),SY
+C1260880,nasal discharge (physical finding),SY
+C1260880,nasal discharge (symptom),SY
+C1260880,nasal discharge as symptom,SY
+C1260880,nasal discharge rhinorrhea,SY
+C1260880,rhinorrhea (physical finding),SY
+C1404995,perversion; sense of smell and taste,PT
+C1406294,"taste; loss, and smell, mixed",PT
+C1406294,and taste,SY
+C1406294,mixed,SY
+C1406294,loss; taste,SY
+C1406294,and smell,SY
+C1504561,Hypophagia,PT
+C1504561,Decreased Oral Intake,SY
+C1504561,Poor Oral Intake,SY
+C1504561,Decreased PO Intake,SY
+C1504561,PO INTAKE DECREASED,SY
+C1504561,Oral intake reduced,SY
+C1504561,Oral Intake Reduced,SY
+C1519353,Skin Papule,PT
+C1519353,Skin papule,SY
+C1519353,skin papule,SY
+C1519353,Papule of skin,SY
+C1519353,Papular rash,SY
+C1519353,RASH PAPULAR,SY
+C1519353,papular,SY
+C1519353,Rash papular,SY
+C1519353,PAPULAR RASH,SY
+C1519353,papular rash,SY
+C1519353,Papular eruption,SY
+C1519353,papular eruption,SY
+C1519353,Papule,SY
+C1519353,Papular skin eruption,SY
+C1519353,SKIN ERUPTION PAPULAR,SY
+C1519353,Papular rash (morphologic abnormality),SY
+C1519353,Papular eruption (disorder),SY
+C1519353,Papular Lesion,SY
+C1519353,skin: a bump [elevated,SY
+C1519353,under .5cm] (papule) [as symptom],SY
+C1519353,skin papule (symptom),SY
+C1519353,Papule of skin (finding),SY
+C1844945,Episodic respiratory distress,PT
+C1844945,episodic,SY
+C1844945,Episodic difficulty breathing,SY
+C1971624,Loss of appetite (finding),PT
+C1971624,Appetite absent,SY
+C1971624,Appetite impaired,SY
+C1971624,appetite; lack or loss,SY
+C1971624,Appetite lost,SY
+C1971624,LOSS OF APPETITE,SY
+C1971624,Appetite loss,SY
+C1971624,Loss (of);appetite,SY
+C1971624,loss; appetite,SY
+C1971624,appetite; loss,SY
+C1971624,No appetite,SY
+C1971624,NO APPETITE,SY
+C1971624,Lack Of Appetite,SY
+C1971624,appetite; lack of,SY
+C1971624,Lack of appetite,SY
+C1971624,lack of; appetite,SY
+C1971624,[D]Appetite loss,SY
+C1971624,Loss of appetite - symptom,SY
+C1971624,Off food,SY
+C1971624,[D]Appetite loss (context-dependent category),SY
+C1971624,Loss of appetite - symptom (finding),SY
+C1971624,[D]Appetite loss (situation),SY
+C1971624,Lack of appetite (finding),SY
+C2062441,influenza A,PT
+C2062441,Influenza A,SY
+C2062441,influenza A (diagnosis),SY
+C2062441,influenza type A,SY
+C2105260,compression arthralgia of multiple sites,PT
+C2105260,compression arthralgia of multiple sites (diagnosis),SY
+C2129214,Loose stool,PT
+C2129214,STOOL LOOSE,SY
+C2129214,LOOSE STOOL,SY
+C2129214,Loose Stool,SY
+C2129214,loose stool,SY
+C2129214,Stools loose,SY
+C2129214,loose stools,SY
+C2129214,Stool(s);loose,SY
+C2129214,Passage of loose stools,SY
+C2129214,Passage of watery stools,SY
+C2129214,Watery Stool,SY
+C2129214,STOOLS WATERY,SY
+C2129214,Stools watery,SY
+C2129214,Watery;stool,SY
+C2129214,Liquid stool,SY
+C2129214,liquid stool,SY
+C2129214,Liquid Stool,SY
+C2129214,Liquid stools,SY
+C2129214,[D] Stools loose,SY
+C2129214,Fluid stool,SY
+C2129214,fluid stool,SY
+C2129214,LS - Loose stools,SY
+C2129214,Runny stool,SY
+C2129214,runny stool,SY
+C2129214,runny stools,SY
+C2129214,Loose motion,SY
+C2129214,Loose motions,SY
+C2129214,Already mapped above AAHA ID #: 758,SY
+C2129214,Loose bowels,SY
+C2129214,loose bowels,SY
+C2129214,Loose bowel,SY
+C2129214,[D] Stools loose (context-dependent category),SY
+C2129214,Liquid stool (finding),SY
+C2129214,Loose stool (finding),SY
+C2129214,Passage of watery stools (finding),SY
+C2129214,[D] Stools loose (situation),SY
+C2129214,Loose feces,SY
+C2129214,Loose faeces,SY
+C2129214,Liquid feces,SY
+C2129214,Liquid faeces,SY
+C2129214,loose/mushy stools,SY
+C2129214,watery stools (symptom),SY
+C2129214,loose or mushy stools,SY
+C2129214,loose or mushy stools (symptom),SY
+C2142181,Pain in left knee,PT
+C2142181,left knee pain,SY
+C2142181,Pain in left knee (finding),SY
+C2142181,pain of left knee joint (symptom),SY
+C2142181,pain of left knee joint,SY
+C2169797,recurrent chills,PT
+C2169797,recurrent chills (symptom),SY
+C2169797,chills which come and go,SY
+C2169797,reported recurrent chills,SY
+C2215675,"airway protection by coughing effortful, tremorous",PT
+C2215675,airway protection by coughing effortful,SY
+C2215675,tremorous (physical finding),SY
+C2364082,Sense of smell impaired,PT
+C2364082,Impaired Sense Of Smell,SY
+C2364082,Decreased sense of smell,SY
+C2364082,decreased sense of smell,SY
+C2364082,Defect or impairment of sense of smell,SY
+C2364082,Hyposmia,SY
+C2364082,HYPOSMIA,SY
+C2364082,hyposmia,SY
+C2364082,Reduced sense of smell,SY
+C2364082,Difficult disting diff smells,SY
+C2364082,Difficulty in distinguishing different smells,SY
+C2364082,Sense of smell impaired (finding),SY
+C2364082,Diminished sense of smell,SY
+C2364082,Decreased smell sensation,SY
+C2364082,decreased sense of smell (symptom),SY
+C2364135,Discomfort,PT
+C2364135,DISCOMFORT,SY
+C2364135,discomfort,SY
+C2364135,discomforts,SY
+C2364135,Discomfort NOS,SY
+C2364135,sensory discomfort,SY
+C2364135,[dup] NOS,SY
+C2364135,Discomfort (finding),SY
+C2364135,NOS (finding),SY
+C2364135,body discomfort,SY
+C2830447,Fever of other and unknown origin,PT
+C2833819,SARS-associated coronavirus as cause of disease classified elsewhere,PT
+C2833819,coronavirus sars-associated as cause of disease classified elsewhere,SY
+C2833819,SARS-associated coronavirus as the cause of diseases classified elsewhere,SY
+C2833819,SARS-associated coronavirus causing diseases classd elswhr,SY
+C2833819,SARS-associated coronavirus as cause of disease classified elsewhere (diagnosis),SY
+C2833820,Other coronavirus as the cause of diseases classified elsewhere,PT
+C2833820,Oth coronavirus as the cause of diseases classd elswhr,SY
+C2887484,Acute respiratory distress syndrome in adult or child,PT
+C2910658,Contact with and (suspected) exposure to other viral communicable diseases,PT
+C2910658,Contact w and exposure to oth viral communicable diseases,SY
+C3714552,WEAKNESS,SY
+C3714552,weakness,SY
+C3714552,weaknesses,SY
+C3714552,Debility,SY
+C3714552,DEBILITY,SY
+C3714552,debility,SY
+C3714552,Debility NOS,SY
+C3714552,Debilities,SY
+C3714552,asthenic,SY
+C3714552,Enfeebled,SY
+C3714552,Weakness - general,SY
+C3714552,General weakness,SY
+C3714552,general weakness,SY
+C3714552,Weakness generalised,SY
+C3714552,generalised weakness,SY
+C3714552,GENERALIZED WEAKNESS,SY
+C3714552,WEAKNESS GENERALIZED,SY
+C3714552,GENERALIZED,SY
+C3714552,Weakness generalized,SY
+C3714552,Weakness;generalised,SY
+C3714552,Weakness;generalized,SY
+C3714552,generalized weakness,SY
+C3714552,Generalized weakness,SY
+C3714552,Strength loss of,SY
+C3714552,loss of strength,SY
+C3714552,of strength loss,SY
+C3714552,STRENGTH LOSS OF,SY
+C3714552,loss strength,SY
+C3714552,strength loss,SY
+C3714552,STRENGTH LOSS,SY
+C3714552,weak,SY
+C3714552,Weak,SY
+C3714552,unspecified debility,SY
+C3714552,[D]Debility,SY
+C3714552,Feeling weak,SY
+C3714552,weak feeling,SY
+C3714552,feeling weak,SY
+C3714552,feel weak,SY
+C3714552,feels weak,SY
+C3714552,Feeling;weak,SY
+C3714552,General debility,SY
+C3714552,Feelings of weakness,SY
+C3714552,feelings of weakness,SY
+C3714552,feeling weakness,SY
+C3714552,STRENGTH DECREASED,SY
+C3714552,([D]Debility,SY
+C3714552,unspecified) or ([D] Self neglect),SY
+C3714552,unspecified debility (diagnosis),SY
+C3714552,feelings of weakness (symptom),SY
+C3714552,unspecified) or ([D] Self neglect) (situation),SY
+C3806218,Episodic tachypnea,PT
+C3806467,Respiratory insufficiency due to muscle weakness,PT
+C3806467,Decreased lung function due to weak breathing muscles,SY
+C3806467,Respiratory muscle weakness,SY
+C3806467,Respiratory distress due to muscle weakness,SY
+C3806467,Respiratory failure due to muscle weakness,SY
+C3806467,Decreased respiratory function due to muscle weakness,SY
+C3808046,Breathing dysregulation,PT
+C3808046,Abnormal breathing,SY
+C3808046,Difficult to breathe,SY
+C3808046,Breathing difficulty,SY
+C4021655,Abnormality of the sense of smell,PT
+C4021655,Smell defect,SY
+C4021655,Abnormality of olfaction,SY
+C4021655,Abnormal sense of smell,SY
+C4048330,Lacks Energy,PT
+C4048330,Lack Energy,SY
+C4048330,I have a lack of energy,SY
+C4048330,Had a Lack of Energy,SY
+C4281993,Neonatal respiratory distress,PT
+C4281993,distress respiratory neonatal,SY
+C4281993,Respiratory distress neonatal,SY
+C4281993,neonatal,SY
+C4281993,neonatal respiratory distress,SY
+C4281993,Newborn respiratory distress,SY
+C4281993,Infantile respiratory distress,SY
+C4288600,No Energy at All,PT
+C4288600,No energy at all,SY
