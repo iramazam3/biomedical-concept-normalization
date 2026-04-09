@@ -40,11 +40,15 @@ The system combines LLM-based linguistic normalization with SapBERT embeddings a
   * Personal Health Experience (PHE) classification
   * Symptom extraction
   * Concept normalization
+    
+* Not uploaded due to Twitter's data usage and redistribution restrictions
 
 ### 4. Kaggle COVID-19 Dataset (Validation)
 
 * Real-world tweets with hashtags (#covid, #quarantine, etc.)
 * Used for end-to-end pipeline validation
+
+* Not uploaded due to Twitter's data usage and redistribution restrictions
 
 ---
 
